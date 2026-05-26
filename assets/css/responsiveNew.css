@@ -1,0 +1,2550 @@
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (min-device-width: 1024px) and (max-device-width:1100px)
+{
+.magazine-viewport .container-flip {
+		height: 100%;
+		left: 0;
+		margin: 0 auto;
+		top: 1%;
+        -webkit-transform :translate(72%, -15%) scale(0.50) translateZ(0px) !important;
+        -moz-transform:translate(72%, -15%) scale(0.50) translateZ(0px) !important;
+        -o-transform: translate(72%, -15%) scale(0.50) translateZ(0px) !important;
+		transform: translate(72%, -15%) scale(0.50) translateZ(0px) !important;
+		width: 56%;
+
+	}
+	.text-contents-table .content {
+       padding-left: 50px;
+}
+.text-contents-table .conte {
+   padding-left: 50px;
+}	
+.flippageone .bottom_content p {
+    padding-left: 50px;
+    font-family: Roboto;
+    font-size: 17px;
+    margin: 10px 0 10px 0;
+    color: #231F20;
+}
+	}
+
+	@media only screen and (min-device-width: 1100px) and (max-device-width:1224px)
+{
+.magazine-viewport .container-flip {
+		height: 100%;
+		left: 0;
+		margin: 0 auto;
+		top: -15px;
+        -webkit-transform :translate(34%, -16%) scale(0.59) translateZ(0px) !important;
+        -moz-transform:translate(34%, -16%) scale(0.59) translateZ(0px) !important;
+        -o-transform:translate(34%, -16%) scale(0.59) translateZ(0px) !important;
+		transform:translate(34%, -16%) scale(0.59) translateZ(0px) !important;
+		width: 53%;
+
+	}
+	.text-contents-table .content {
+    margin-left: 15px;
+}
+.text-contents-table .conte {
+    margin-left: 30px;
+}	
+	}
+
+/* Large screens ----------- */
+
+@media only screen and (min-device-width: 1224px) and (max-device-width : 1366px)and (orientation : landscape)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+	top: 1%;
+        -webkit-transform :translate(45%, -25%) scale(0.50) translateZ(0px) !important;
+        -moz-transform: translate(45%, -25%) scale(0.50) translateZ(0px) !important;
+        -o-transform: translate(45%, -25%) scale(0.50) translateZ(0px) !important;
+		transform: translate(45%, -25%) scale(0.50) translateZ(0px) !important;
+    width: 52%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+.abbrev-content {
+    color: #231f20;
+
+    font-size: 8.4px;
+    margin-bottom: 0px;
+}
+
+.ref-content {
+    color: #231f20;
+
+    font-size: 8.4px;
+    margin-bottom: 0px;
+}
+.footer-logo {
+    width: 150px;
+    position: absolute;
+    right: 49px;
+    margin-top: -27px;
+}
+
+}
+
+@media only screen and (min-device-width: 1366px) and (max-device-width :1400px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top:0;
+   	transform: translate(45%, -140.305px) scale(0.546146) translateZ(0px) !important;
+    width: 54%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+
+@media only screen and (min-device-width: 1400px) and (max-device-width :1599px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+	transform:translate(45%, -140.305px) scale(0.66146) translateZ(0px) !important;
+    width: 54%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+
+@media only screen and (min-device-width: 1600px) and (max-device-width :1700px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top:-10px;
+    transform:translate(47%, -4%) scale(0.8309146) translateZ(0px) !important;
+    width: 57%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+@media only screen and (min-device-width: 1700px) and (max-device-width :1920px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+    transform:translate(50%, -2%) scale(0.8009146) translateZ(0px) !important
+    width: 56%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+@media only screen and (min-device-width: 1920px) and (max-device-width :2100px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+    transform:translate(49%, -6%) scale(0.8509146) translateZ(0px) !important;
+    width: 59%;
+    margin: 0 auto;
+}
+}
+@media only screen and (min-device-width: 2100px) and (max-device-width :2560px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+    transform:translate(49%, -4%) scale(0.7809146) translateZ(0px) !important;
+    width: 58%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+@media only screen and (min-device-width: 2560px) and (max-device-width :3220px)
+{
+.magazine-viewport .container-flip {
+    left: 0;
+    height: 100%;
+    top: 0;
+    transform:translate(65%, 7%) scale(1.009146) translateZ(0px) !important;
+	-webkit-transform:translate(65%, 7%) scale(1.009146) translateZ(0px) !important;
+    -moz-transform:translate(65%, 7%) scale(1.009146) translateZ(0px) !important;
+    -o-transform:translate(65%, 7%) scale(1.009146) translateZ(0px) !important;
+    width: 56%;
+    margin: 0 auto;
+}
+.text-contents-table .content {
+    margin-left: 20px;
+}
+.text-contents-table .conte {
+    margin-left: 35px;
+}
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) 
+{
+
+.magazine-viewport .container-flip {
+		height: 100%;
+        left: 0;
+        top: 1%;
+       /*bottom: 100%;*/
+        /* transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -webkit-transform :translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -moz-transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -o-transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important; */
+
+        transform: translate(64%, -19%) scale(0.4) translateZ(0px) !important;
+        width: 56%;
+	}
+	.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 9px !important;
+border-radius: 4px;
+margin: 2px !important;
+padding: 4px !important;
+
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.home-link {
+    right: 0;
+    position: absolute;
+    margin: 6px 15px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 23px;
+    font-weight: 700;
+}
+.header-logo img{
+height:33px;
+}
+.padd {
+    padding-top: 40px;
+}
+.text-contents-table .row{
+margin-left:15px !important;
+}
+.text-contents-table .content
+{
+padding-left: 50px;
+}
+.refe_content_inner {
+    margin-left: 0px;
+}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) 
+{
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) 
+{
+.magazine-viewport .container-flip {
+		height: 100%;
+        left: 0;
+        top: 1%;
+       /*bottom: 100%;*/
+        transform:translate(69%, -23%) scale(0.37191) translateZ(0px) !important;
+        -webkit-transform :translate(69%, -23%) scale(0.37191) translateZ(0px) !important;
+        -moz-transform:translate(69%, -23%) scale(0.37191) translateZ(0px) !important;
+        -o-transform:translate(69%, -23%) scale(0.37191) translateZ(0px) !important;
+        width: 56%;
+	}
+	.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 9px !important;
+border-radius: 4px;
+margin: 2px !important;
+padding: 4px !important;
+
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.home-link {
+    right: 0;
+    position: absolute;
+    margin: 6px 15px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 23px;
+    font-weight: 700;
+}
+.header-logo img{
+height:33px;
+}
+	.padd {
+    padding-top: 40px;
+}
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) 
+{
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) 
+{
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape)
+{
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait)
+{
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+    top: 1%;
+    bottom: 100%;
+    transform:translate(70%, 28%) scale(0.3791) translateZ(0px) !important;
+    -webkit-transform:translate(70%, 28%) scale(0.3791) translateZ(0px) !important;
+    -moz-transform:translate(70%, 28%) scale(0.3791) translateZ(0px) !important;
+    -o-transform:translate(70%, 28%) scale(0.3791) translateZ(0px) !important;
+    width: 56%;
+}
+.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 10px !important;
+padding: 6px !important;
+border-radius: 4px;
+margin: 4px !important;
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.header-mid {
+    font-size: 45px;
+
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 25px;
+    text-align: center;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 27px;
+    text-align: center;
+    margin-top: -12px;
+}
+}
+
+/* iPhone 6 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape)
+ {
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+    top:-20px;
+    bottom: 100%;
+    transform: translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+    -webkit-transform: translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+    -moz-transform: translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+    -o-transform: translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+    width: 56%;
+}
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) 
+{
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+    top:-21px !important;
+    bottom: 100%;
+    transform:translate(72%, 28%) scale(0.4391) translateZ(0px) !important;
+    -webkit-transform:translate(72%, 28%) scale(0.4391) translateZ(0px) !important;
+    -moz-transform: translate(72%, 28%) scale(0.4391) translateZ(0px) !important;
+    -o-transform:translate(72%, 28%) scale(0.4391) translateZ(0px) !important;
+    width: 56%;
+}
+.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 10px !important;
+padding: 6px !important;
+border-radius: 4px;
+margin: 4px !important;
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.header-mid {
+    font-size: 44px;
+  
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+  
+    font-size: 24.5px;
+    text-align: center;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 26px;
+    text-align: center;
+    margin-top: -12px;
+}
+.text-contents-table .content {
+
+}
+
+}
+
+/* iPhone 6+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2)
+{
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2)
+{
+
+.inner-page-covers {
+    padding: 0px 15px 15px 15px;
+}
+
+.page-14 .last-reference ol {
+    padding-left: 20px;
+}
+
+.thumbanils-touch  ul{
+top:10px !important;
+}
+.thumbnails-side{
+width: 113px;
+}
+.thumbnails-side img{
+    width: 100px;
+    height: auto;
+}
+	.magazine-viewport .container-flip {
+		height: 100%;
+        left: 0;
+        top: 1%;
+       /*bottom: 100%;*/
+        transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -webkit-transform :translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -moz-transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        -o-transform:translate(72%, -19%) scale(0.4291) translateZ(0px) !important;
+        width: 56%;
+	}
+    .page-11th strong {
+
+    padding-left: 34px;
+    font-size: 16px;
+}
+    .flippageone .text-contents-table .conte {
+    margin-left:30px !important;
+}
+    .logo {
+    width: 30%;
+    float: right;
+    padding-bottom:10px;
+    PADDING-right: 18px;
+    margin-top: 5px !important;
+    }
+    .page-headings {
+  
+    font-size: 20px;
+
+    }
+    .flippageone .text-contents-table {
+      padding: 0px;
+	  margin-left:15px;
+
+    }
+    .header-top{
+        font-size: 33px;
+        margin-top: 200px;
+    }
+    .header-mid {
+        font-size: 56px !important;
+    }
+    .header-bot {
+        font-size: 35px;
+    }
+    .flippageone .content {
+        margin-left:0;
+    }
+    .content {
+    font-size: 30px;
+    
+    left: 77.0103px;
+    color: #f46525;
+    font-weight: bold;
+    font-style: italic;
+    margin-left:0%;
+}
+    .conte {
+    font-size: 20px !important;
+    font-style: italic;
+    color: #FFF;
+    margin-left:0;
+	line-height:24px;
+}
+    .flipbook-color-light {
+    color: rgba(50, 50, 50, 0.9);
+    font-size: 10px !important;
+        padding: 6px !important;
+}
+    .pagenos {
+    font-size: 20px;
+    margin-top: 0px;
+	line-height: 24px !important;
+}
+
+    .page-two .text {
+    
+    font-size: 16px;
+    color: #5B5B5D;
+    margin-bottom: 10px !important;
+    line-height: 21px;
+}
+  
+    .textnew {
+
+    font-size: 14px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 10px !important;
+    margin-left: 4px;
+    margin-right: 20px;
+}
+    .subttles, .subtitles, .page-11th .subtitle, .page-14 .subtitle {
+    font-size: 14px;
+}
+    .subtitles {
+    color: #005CB8;
+    font-size: 15px;
+
+    height: 140px;
+    padding: 10px;
+    background-color: #F4F4F4;
+    margin-top:0px;
+    border-radius: 0px 0px 28px 0px;
+    padding-left: 36px;
+}
+    .page4img {
+    width: 100%;
+    margin-left: 10px !important;
+    height: 20%;
+}
+
+    .page-three .text {
+
+    font-size: 13px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 20px !important;
+    margin-left: 4px;
+    margin-right: 20px;
+}
+.page-three .textnew {
+
+    font-size: 14px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 10px !important;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.page-three .text {
+
+    font-size: 14px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 20px !important;
+margin-left:0px;
+    margin-right: 20px;
+}
+
+    .subttles {
+    color: #005CB8;
+    font-size: 15px;
+
+    height: 60px;
+    padding: 10px;
+    background-color: #F4F4F4;
+    margin-top:0px;
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+    line-height: 18px;
+}
+    .page5img {
+    width: 75%;
+    height: 56%;
+    margin-left:-4px !important;
+}
+.page-sevens .page6top {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+    .page-five .subttles {
+    color: #005CB8;
+    font-size: 15px;
+
+    height: 50px;
+    padding: 10px;
+    background-color: #F4F4F4;
+    margin-top:0px;
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+}
+
+    .page-five .img-fig {
+    
+    font-size: 12px;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    margin-top: 12px;
+    margin-left: 0px !important;
+}
+.page-six .col-arrange ul {
+    margin-left: 0px;
+}
+.page-eighth .col-arrange ul {
+    margin-left: 20px;
+}
+
+    .page-six .subttles {
+    color: #005CB8;
+    font-size: 15px;
+
+    height: 60px;
+    padding: 10px;
+    background-color: #F4F4F4;
+    margin-top:0px;
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+    margin-bottom: 5px;
+}
+    .lastpage {
+    width: 50%;
+    height: 7%;
+    padding-left: 7%;
+}
+    .page-six .texts {
+
+    line-height: 22px;
+    font-size: 14px;
+    color: rgb(95, 99, 105);
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left:0;
+}
+    .page-six .text {
+    
+    font-size: 14px;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 21px;
+    margin-left:0;
+}
+    .textbot {
+
+    line-height: 10.5px;
+    font-size: 13px;
+    color: rgb(95, 99, 105);
+    margin-right: 20px;
+    margin-left: 3%;
+}
+
+    .mtop {
+    margin-top: 70px;
+}
+    .page-eighthimg  {
+    width:83%; 
+    height:4%;
+    padding-left: 3%;
+}	
+
+.page-eighth .textpag {
+    
+    font-size: 14px;
+    color: #5B5B5D;
+    margin-bottom: 10px !important;
+    line-height: 20px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+    .textpag {
+    
+    font-size: 14px;
+    color: #5B5B5D;
+    margin-bottom: 10px !important;
+    line-height: 20px;
+    margin-top: 13px;
+    margin-left: 3%;
+}
+    .text {
+    
+    font-size: 10px;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 12px;
+}
+    .head {
+    font-weight: bold;
+    
+    font-size: 15px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+    .page-eighth .head {
+    margin-left:5px !important;
+}
+
+    .page-9th-01img {
+    height: 220px;
+    height: 12%;
+    width: 95%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+	margin-left: -22px !important;
+}
+    .page-9th li, .page-9th p {
+    font-size: 14px;
+    margin-bottom: 5px;
+    padding-left: 5px !important;
+    margin-right: 20px;
+}
+    .page-10th .subtitle {
+    color: #0061AC;
+    font-size: 13px;
+    height: 35px;
+    margin-top:0px;  
+    padding-top: 0px;
+    padding-left: 36px;
+}
+    .page-10th .subtitle {
+
+    font-size: 13px;
+}
+    .page-10th .isi-head {
+    color: #532D84;
+    font-size: 18px;
+    margin: 0;
+    margin-top: 11px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    }
+    .page-10th .page-inners-text {
+    padding-left: 0px;
+
+    color: rgb(95, 99, 105);
+    font-size: 14px;
+    margin-left:0px;
+}
+    .page-11th .left-text-s ul li{
+    padding-left: 5px !important;
+}
+.page-11th p.page-inners-titles{
+padding-left:0px !important;
+}
+    ul.tenthpage li {
+    font-size: 14px;
+        margin-left: 0px;
+}
+    .page-10th .txtul li, .page-10th .txtul-2 li {
+    margin-left: 46px;
+}
+    .page-10th-1st {
+    height: 5%;
+    width: 50%;
+        padding-left: 3%;
+    padding-top: 10px;
+}
+    .page-10th .page-inners-titles {
+  padding-left: 0px !important;
+margin-left: 5px !important;
+font-size: 15px !important;
+padding-bottom: 5px;
+
+}
+.page-10th ul {
+    margin-left: -28px;
+}
+
+    .padd {
+    padding-top: 50px;
+}
+    .page-10th li, .page-10th p {
+    font-size: 14px;
+    margin-bottom: 2px;
+    margin-left: 30px;
+
+}
+    .last-reference ol li {
+    font-size: 14px;
+    line-height: 24px;
+
+    color: rgb(95, 99, 105);
+}
+.page-11th .subtitle {
+    color: #0061AC;
+    height: 25px;
+    padding-left: 36px;
+    margin-top: 0px;
+}
+    .page-11th li {
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+.page-11th p {
+    font-size: 14px;
+    margin-bottom: 2px;
+    margin-left: 0px !important;
+
+}
+.page-11th ul{
+
+margin-left: 10px;
+}
+.page-five ul {
+    padding: 0px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+    .img-11-th-1st {
+    height: 10%;
+    width: 98%;
+    padding-left: 7px;
+}
+    .page-12th .subtitle {
+
+    font-size: 12px;
+}
+    .page-12th .subtitle {
+    color: #0061AC;
+    font-size: 13px;
+    height: 50px;
+    margin-top: -30px;
+    padding-top: 32px;
+    padding-left: 36px;
+}
+    .page-12th li, .page-12th p {
+    font-size: 14px;
+    margin-bottom: 9px;
+        margin-left:0;
+            line-height: 22px;
+}
+.page-12th .page-inners-titles {
+    padding-left: 0px !important;
+
+}
+
+    .page-12th .subtitle {
+    color: #0061AC;
+    font-size: 15px;
+    height: 60px;
+    margin-top:0px;
+    padding-top: 35px;
+    padding-left: 36px;
+}
+    .page-inners-titles {
+    font-weight: bold;
+    color: #58575C;
+    font-size: 14px !important;
+    padding-left: 21px !important;
+    padding-bottom: 8px;
+}
+    .t12th-img-2t {
+    height: 13%;
+    margin-left: 10px !important;
+    width: 100%;
+}
+    .page-12th b {
+
+    font-weight: normal !important;
+    font-size: 14px;
+        line-height: 18px;
+}
+    .page-12th .isi-head {
+    margin-top: 8px !important;
+}
+    .page-12th .isi-head strong {
+    font-size: 22px;
+    margin-left: 0%;
+}
+    .page-12th .last-foots {
+ 
+    font-style: italic !important;
+    font-size: 12px;
+}
+    .page-13 img {
+    width: 100%;
+    height: 10%;
+    margin-bottom: 37px !important;
+}
+    .page-13 li, .page-13 p {
+    font-size: 14px;
+    margin-bottom: 2px;
+        line-height: 22px;
+}
+    .img-14th {
+    height: 10%;
+    margin-bottom: 13px !important;
+    margin-left: -22px !important;
+}
+    .page-14 p {
+    font-size: 12px;
+    color: #5B5B5D;
+    margin-bottom: 2px;
+    line-height: 16px;
+}
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+    .magazine-viewport .container-flip{
+        left: 0;
+        height: 100%;
+        top:-34px !important;
+        transform:translate(75%, -15%) scale(0.5046) translateZ(0px) !important;
+        -webkit-transform :translate(75%, -15%) scale(0.5046) translateZ(0px) !important;
+        -moz-transform:translate(75%, -15%) scale(0.5046) translateZ(0px) !important;
+        -o-transform:translate(75%, -15%) scale(0.5046) translateZ(0px) !important;
+        width: 56%;
+        margin: 0 auto;
+    }
+	.tumor-sample-content .list-text {
+    font-size: 14px;
+    margin-bottom: 0px !important;
+    margin-left: 0px;
+    
+    color: #231f20;
+}
+
+.clinical-tissue-heading {
+     margin-top: 3px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+    .thumbnails-side  ul {
+        top:0px !important;
+    }
+    .page-11th strong {
+      
+        padding-left: 34px;
+        font-size: 16px;
+    }    
+    .logo {
+        width: 30%;
+        float: right;
+        padding-bottom: 25PX;
+        PADDING-right: 18px;
+        margin-top:0px !important;
+    }
+	.conte {
+
+}
+.page-14 .last-foots {
+ 
+    font-style: italic !important;
+    font-size: 13px !important;
+    color: #532D84 !important;
+    margin-top: 10px;
+}
+    .page-headings {
+    
+        font-size: 20px;
+    }
+    .page-12th .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+}
+.page-13 .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+    border-radius: 0px 0px 28px 0px;
+}
+
+    .inner-page-covers p.header-top{
+        font-size:27px !important;
+    }
+    .inner-page-covers .header-mid {
+        font-size:48px !important;
+    }
+    .inner-page-covers p.header-bot {
+        font-size:29px !important;
+    }
+    .text-contents-table {
+
+    }
+    .content {
+        font-size: 30px;
+        
+        left: 77.0103px;
+        color: #f46525;
+        font-weight: bold;
+        font-style: italic;
+        margin-left:0px;
+    }
+    .conte {
+
+    }
+
+    .lastpage {
+        width: 100%;
+        height: 7%;
+        padding-left: 7%;
+    }
+    .page-six .texts {
+    
+        line-height: 22px;
+        font-size: 14px;
+        color: rgb(95, 99, 105);
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-left: 3%;
+    }
+    .page-six .text {
+        
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 21px;
+        margin-left:0%;
+    }
+    .textbot {
+    
+        line-height: 10.5px;
+        font-size: 13px;
+        color: rgb(95, 99, 105);
+        margin-right: 20px;
+        margin-left: 3%;
+    }
+
+    .mtop {
+        margin-top: 70px;
+    }
+    .page-eighthimg  {
+        width:83%;
+        height:4%;
+        padding-left: 3%;
+    }
+    .textpag {
+        
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 10px !important;
+        line-height: 20px;
+        margin-top: 13px;
+        margin-left:0%;
+    }
+    .text {
+        
+        font-size: 10px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 12px;
+    }
+    .head {
+        font-weight: bold;
+        
+        font-size: 15px;
+        margin-top: 8px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+
+    .page-eighth .head {
+        margin-left:0px !important;
+    }
+	.page-eighth img {
+    margin-left: -7px !important;
+}
+
+    .page-four .text {
+    
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 23px;
+        margin-left: 0px;
+        margin-right: 20px;
+    }
+
+    .page-9th .subtitle {
+        color: #0061AC;
+        font-size: 13px;
+        height: 40px;
+        margin-top:0px;
+        padding-top: 21px;
+        padding-left: 36px;
+    }
+    .page-9th .subtitle {
+    
+        font-size: 13px;
+    }
+    .page-9th-01img {
+        height: 220px;
+        height: 12%;
+        width: 95%;
+        padding-left:7px;
+        padding-bottom: 20px;
+    }
+    .page-9th li, .page-9th p {
+        font-size: 14px;
+        margin-bottom: 5px;
+        padding-left:0px;
+        margin-right: 20px;
+    }
+    .page-10th .subtitle {
+        color: #0061AC;
+        font-size: 13px;
+        height: 35px;
+        margin-top:0px;
+        . padding: 11px;
+        padding-top: 0px;
+        padding-left: 36px;
+    }
+    .page-10th .subtitle {
+    
+        font-size: 13px;
+    }
+    .page-10th .isi-head {
+        color: #532D84;
+        font-size: 18px;
+        margin: 0;
+        margin-top: 11px;
+        margin-bottom: 10px;
+        padding-left:0px;
+    }
+    .page-10th .page-inners-text {
+        padding-left: 0px;
+    
+        color: rgb(95, 99, 105);
+        font-size: 14px;
+        margin-left:0px;
+    }
+    ul.tenthpage li {
+        font-size: 14px;
+    }
+    .page-10th .txtul li, .page-10th .txtul-2 li {
+        margin-left: 46px;
+    }
+	.page-10th ul {
+    margin-left: -22px;
+	}
+
+    .page-10th-1st {
+        height: 5%;
+        width: 100%;
+        padding-left: 3%;
+        padding-top: 10px;
+    }
+
+    .page-10th .page-inners-titles {
+        padding-left: 0px;
+        margin-left: 24px;
+        font-size: 15px !important;
+        padding-bottom: 5px;
+    }
+    .padd {
+        padding-top: 100px;
+    }
+    .page-10th li, .page-10th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left: 30px;
+    
+    }
+    .last-reference ol li {
+        font-size: 14px;
+        line-height: 24px;
+    
+        color: rgb(95, 99, 105);
+    }
+    .page-11th .subtitle {
+        color: #0061AC;
+        height: 25px;
+        padding-left: 36px;
+        margin-top:0px;
+    }
+    .page-11th li {
+        font-size: 14px;
+        margin-bottom: 2px;
+    }
+    .page-11th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left:0px !importantss;
+    }
+    .img-11-th-1st {
+        height: 10%;
+        width: 98%;
+        padding-left: 7px;
+    }
+    .page-12th .subtitle {
+    
+        font-size: 12px;
+    }
+    .page-12th .subtitle {
+        color: #0061AC;
+        font-size: 13px;
+        height: 50px;
+        margin-top: -30px;
+        padding-top: 32px;
+        padding-left: 36px;
+    }
+    .page-12th li, .page-12th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left:0%;
+    }
+    .page-12th .subtitle {
+        color: #0061AC;
+        font-size: 15px;
+        height: 60px;
+        margin-top:0px;
+        padding-top: 32px;
+        padding-left: 36px;
+    }
+    .page-inners-titles {
+        font-weight: bold;
+        color: #58575C;
+        font-size: 14px !important;
+        padding-left:0px !important;
+        padding-bottom: 8px;
+    }
+    .t12th-img-2t {
+        height: 13%;
+        margin-left: 10px !important;
+        width: 100%;
+    }
+    .page-12th b {
+    
+        font-weight: normal !important;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .page-12th .isi-head {
+        margin-top: 8px !important;
+    }
+    .page-12th .isi-head strong {
+        font-size: 22px;
+        margin-left:0%;
+    }
+    .page-12th .last-foots {
+     
+        font-style: italic !important;
+        font-size: 12px;
+    }
+    .page-13 img {
+        width: 100%;
+        height: 10%;
+        margin-bottom: 37px !important;
+    }
+    .page-13 li, .page-13 p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        line-height: 22px;
+    }
+    .img-14th {
+        height: 10%;
+        margin-bottom: 13px !important;
+        margin-left: -22px !important;
+    }
+    .page-14 p {
+        font-size: 12px;
+        color: #5B5B5D;
+        margin-bottom: 2px;
+        line-height:16px;
+    }
+    .isi-head{
+        margin-top: 25px !important;
+    }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width :799px) and (orientation : portrait)
+ {
+ .thumbnails-side{
+        width: 113px;
+    }
+    .thumbanils-touch  ul{
+        top:10px !important;
+    }
+    .thumbnails-side img{
+        width: 100px;
+        height: auto;
+    }
+    .magazine-viewport .container-flip {
+      height: 80%;
+left: 0;
+top: -15px;
+transform:translate(88%, -5%) scale(0.7956) translateZ(0px) !important;
+-webkit-transform:translate(88%, -5%) scale(0.7956) translateZ(0px) !important;
+-moz-transform:translate(88%, -5%) scale(0.7956) translateZ(0px) !important;
+-o-transform:translate(88%, -5%) scale(0.7956) translateZ(0px) !important;
+width: 56%;
+    }
+	.tumor-sample-content .list-text {
+    font-size: 14px;
+    margin-bottom: 0px !important;
+    margin-left: 0px;
+    
+    color: #231f20;
+}
+.clinical_img_containter {
+    margin: 15px 0 16px;
+}
+
+	.copy-right-content {
+    color: #231f20;
+    float: left;
+    
+    font-size: 11px;
+    width: 80%;
+}
+.footer-logo {
+    width: 130px;
+    position: absolute;
+    right: 49px;
+    margin-top: -28px;
+}
+.clinical-tissue-heading {
+
+    margin-top: 4px;
+    margin-bottom: 7px;
+    text-align: center;
+    font-size: 16px;
+}
+
+    .page-11th strong {
+        color: rgb(95, 99, 105);
+      
+        padding-left: 34px;
+        font-size: 16px;
+    }
+	.page-11th ul{
+	margin-left: 5px !important;
+	}
+	.page-fifteen.last-reference ol{
+	padding-left: 10px;
+	}
+	.page-14 .last-foots {
+ 
+    font-style: italic !important;
+    font-size: 13px !important;
+    color: #532D84 !important;
+    margin-top: 10px;
+	font-weight: normal;
+}
+	
+    .page-12th .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+}
+.page-13 .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+    border-radius: 0px 0px 28px 0px;
+}
+
+    .logo {
+        width: 30%;
+        float: right;
+        padding-bottom: 25PX;
+        PADDING-right: 18px;
+        margin-top:-25px !important;
+    }
+    .page-headings {
+    
+        font-size: 20px;
+    }
+    .header-top{
+        font-size: 27px !important;
+    }
+	.inner-page-covers .header-mid {
+        font-size: 48px !important;
+    }
+    .header-bot {
+        font-size: 29px !important;
+    }
+
+    .subtitles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 150px;
+        padding-left:36px;
+        background-color: #F4F4F4;
+        border-radius: 0px 0px 28px 0px;
+
+    }
+    .page4img {
+        width: 96%;
+        margin-left: 10px !important;
+        height: 13%;
+    }
+
+    .page-three .text {
+    
+        font-size: 14px !important;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 20px !important;
+        margin-left: -5px;
+        margin-right: 20px;
+    }
+    .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+    /*    margin-top: -4px; */
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        line-height: 18px;
+    }
+
+    .page-five .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 50px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+    }
+	.page-eighth img {
+    margin-left: -7px !important;
+}
+    .page-five .img-fig {
+        
+        font-size: 12px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        margin-top: 12px;
+        margin-left: 0px !important;
+    }
+    .page-six .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+      /*  margin-top: -8px; */
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        margin-bottom: 5px;
+		 margin-top:0px;
+    }
+    .lastpage {
+        width: 100%;
+        height: 7%;
+        padding-left: 7%;
+		margin-left:-20px !important;
+    }
+    
+   .text-contents-table .content{
+   padding-left: 50px;
+   }
+   .conte{
+      padding-left: 50px;
+   }
+.flippageone .bottom_content p {
+    padding-left: 50px;
+	}
+}
+
+/* Lenovo Yoga tablet (portrait) ----------- */
+
+@media only screen and (min-device-width : 800px) and (max-device-width : 1024px)
+  {
+/* Styles */
+}
+
+/* Lenovo Yoga tablet (portrait) ----------- */
+
+@media only screen and (min-device-width : 800px) and (max-device-width :1024px) and (orientation : portrait)
+ {
+ .thumbnails-side{
+        width: 113px;
+    }
+		
+    .thumbanils-touch  ul{
+        top:10px !important;
+    }
+    .thumbnails-side img{
+        width: 100px;
+        height: auto;
+    }
+    .magazine-viewport .container-flip {
+  height: 100%;
+	left: 0;
+	top: -150px;
+	/*bottom: 100%; */
+	transform: translate(85%, 2%) scale(0.779) translateZ(0px) !important;
+	width: 56%;
+	margin-left: 20px;
+    }
+	.footer-logo {
+    width: 130px;
+    position: absolute;
+    right: 49px;
+    margin-top: -30px;
+}
+	.flipbook-menu {
+    height: 40px;
+}
+    .page-11th strong {
+        color: rgb(95, 99, 105);
+      
+        padding-left: 34px;
+        font-size: 16px;
+    }
+	.page-11th ul{
+	margin-left: 5px !important;
+	}
+	.page-fifteen.last-reference ol{
+	padding-left: 10px;
+	}
+	.reference-title {
+
+    color: #860152;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+	.biomakers-content {
+    
+    font-size: 14px;
+    color: #231f20;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .page-12th .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+}
+.page-13 .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+    border-radius: 0px 0px 28px 0px;
+}
+
+    .logo {
+        width: 30%;
+        float: right;
+        padding-bottom: 25PX;
+        PADDING-right: 18px;
+        margin-top: 0px !important;
+    }
+   
+    .header-top{
+        font-size: 22px !important;
+    }
+	.inner-page-covers .header-mid {
+        font-size: 49px !important;
+    }
+    .header-bot {
+    font-size: 40px !important;
+    }
+
+    h5.cont-titl {
+    font-family: Gotham-Bold;
+    display: block;
+    color: #3D9444;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: normal;
+    padding-top: 19px;
+}
+    .page-three .text {
+ font-size: 13px !important;
+    }
+    .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+    /*    margin-top: -4px; */
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        line-height: 18px;
+    }
+    .page5img {
+        width: 75%;
+        height: 56%;
+        margin-left:-15px !important;
+    }
+  .thirteen_container .text {
+    font-size: 14px;
+	}
+	.page-five ul {
+    padding: 0px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+
+    .page-five .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 50px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+    }
+	.page-eighth img {
+    margin-left: -7px !important;
+}
+    .page-five .img-fig {
+        
+        font-size: 12px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        margin-top: 12px;
+        margin-left: 0px !important;
+    }
+    .page-six .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+      /*  margin-top: -8px; */
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        margin-bottom: 5px;
+		 margin-top:0px;
+    }
+    .lastpage {
+        width: 100%;
+        height: 7%;
+        padding-left: 7%;
+		margin-left:-20px !important;
+    }
+
+    .mtop {
+        margin-top: 70px;
+    }
+    .page-eighthimg  {
+        width:83%;
+        height:4%;
+        padding-left: 3%;
+    }
+    .textpag {
+        
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 10px !important;
+        line-height: 20px;
+        margin-top: 13px;
+        margin-left:0%;
+    }
+   
+    .head {
+        font-weight: bold;
+        
+        font-size: 15px;
+        margin-top: 8px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+    .page-six .col-arrange .cont-titles {
+        margin-left:0%;
+        font-size: 13px;
+    }
+    .page-eighth .head {
+        margin-left:0px !important;
+    }
+    page-six .cont-titles {
+     
+        font-size: 14px;
+        font-style: normal !important;
+        padding-left: 0px;
+        margin-left: -15px;
+        margin-top: 10px;
+    }
+	page-six .col-arrange ul {
+    margin-left: 0px;
+}
+/***Start ****/
+.refe_content_inner .text {
+    margin-left: 20px;
+}
+  .page-headings {
+font-size: 24px;
+    line-height: 29px;
+    }
+	.fifteenth_subheading {
+    font-size: 18px;
+	}  
+
+}
+
+/* Lenovo Yoga tablet (landscape) ----------- */
+@media only screen and (min-device-width : 1280px) and (max-device-height : 631px) and (orientation : landscape) 
+{
+
+	.magazine-viewport .container-flip{
+        left: 0;
+        height: 80%;
+        top:0;
+        transform:translate(39%, -16%) scale(0.3046) translateZ(0px) !important;		
+	/*	transform: translate(45%, -25%) scale(0.50) translateZ(0px) !important; */
+        width: 50%;
+        margin: 0 auto;
+	    }
+    .thumbnails-side  ul {
+        top:0px !important;
+    }
+    .page-11th strong {
+        color: rgb(95, 99, 105);
+      
+        padding-left: 34px;
+        font-size: 16px;
+    }    
+    .logo {
+        width: 30%;
+        float: right;
+        padding-bottom: 25PX;
+        PADDING-right: 18px;
+        margin-top:0px !important;
+    }
+	.conte {
+    font-size: 20px !important;
+    font-style: italic;
+    color: #FFF;
+    margin-left: 10px;
+}
+
+    .page-headings {
+    
+        font-size: 20px;
+    }
+    .page-12th .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+}
+.page-13 .page-heading {
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    font-size: 18px;
+    border-radius: 0px 0px 28px 0px;
+}
+
+    .inner-page-covers p.header-top{
+        font-size:27px !important;
+    }
+    .inner-page-covers .header-mid {
+        font-size:48px !important;
+    }
+    .inner-page-covers p.header-bot {
+        font-size:29px !important;
+    }
+    .text-contents-table {
+        margin-left: 1%;
+        padding-left: 35px !important
+    }
+    .content {
+        font-size: 30px;
+        
+        left: 77.0103px;
+        color: #f46525;
+        font-weight: bold;
+        font-style: italic;
+        margin-left:0px;
+    }
+    .conte {
+        font-size: 20px !important;
+        font-style: italic;
+        color: #FFF;
+        margin-left: 10px;
+    }
+    .pagenos {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    .page-two .title {
+margin-top: 20px;
+margin-bottom: 5px;
+margin-left: 15px;
+font-size: 19px;
+
+    }
+    .page-two .cont-titl {
+        color: #512B82;
+    
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    .page-two .text {
+        
+        font-size: 15px;
+        color: #5B5B5D;
+        margin-bottom: 10px !important;
+        line-height: 21px;
+    }
+    .inner-page-covers .text{
+        line-height: 22px !important;
+    }
+    .page-two .cont-titles {
+       
+        font-size: 14px;
+        font-style: normal !important;
+        padding-left: 0px;
+    }
+    .textnew {
+    
+        font-size: 14px !important;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 10px !important;
+        margin-left: 4px;
+        margin-right: 20px;
+    }
+    .subttles, .subtitles, .page-11th .subtitle, .page-14 .subtitle {
+        font-size: 14px;
+    }
+	.page-14 .subtitle {
+    font-size: 14px;
+    margin-top: 0px;
+}
+.page-13 ul {
+    padding-left: 7px;
+}
+
+.page-fifteen.last-reference ol {
+    padding-left: 10px;
+}
+
+    .subtitles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 150px;
+        padding-left: 36px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        border-radius: 0px 0px 28px 0px;     
+    }
+    .page4img {
+        width: 96%;
+        margin-left: 10px !important;
+        height: 13%;
+    }
+    .page-three .cont-titl {
+      
+        font-weight: normal;
+        font-size: 14x;      
+        margin-left: -5px;
+        margin-bottom: 2px;
+		padding-left:0px;
+    }
+    .page-three .text {
+    
+        font-size: 14px !important;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 20px !important;
+        margin-left: -5px;
+        margin-right: 20px;
+    }
+	 .page-three .textnew {
+    
+        font-size: 14px !important;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 10px !important;
+           margin-left: -5px;
+        margin-right: 20px;
+    }
+    .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        line-height: 18px;
+    }
+    .page5img {
+        width: 75%;
+        height: 56%;
+        margin-left:-10px !important
+    }
+	.page-five ul {
+    padding: 0px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+	.page-five .page-inners-titles {
+    margin-left:0px;
+    margin-top: 14px;
+}
+
+    .page-five .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 50px;
+        padding: 10px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+    }
+   
+    .page-five .img-fig {
+        
+        font-size: 12px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        margin-top: 12px;
+        margin-left: 0px !important;
+    }
+    .page-six .subttles {
+        color: #005CB8;
+        font-size: 15px;
+    
+        height: 60px;
+        padding: 10px;
+        background-color: #F4F4F4;
+        margin-top:0px;
+        padding-left: 36px;
+        border-radius: 0px 0px 28px 0px;
+        margin-bottom: 5px;
+    }
+    .lastpage {
+        width: 100%;
+        height: 7%;
+        padding-left: 7%;
+    }
+    .page-six .texts {
+    
+        line-height: 22px;
+        font-size: 14px;
+        color: rgb(95, 99, 105);
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-left: 3%;
+    }
+    .page-six .text {
+        
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 21px;
+        margin-left:0%;
+    }
+    .textbot {
+
+        line-height: 10.5px;
+        font-size: 13px;
+        color: rgb(95, 99, 105);
+        margin-right: 20px;
+        margin-left: 3%;
+    }
+   
+    .mtop {
+        margin-top: 70px;
+    }
+    .page-eighthimg  {
+        width:83%;
+        height:4%;
+        padding-left: 3%;
+    }
+    .textpag {
+
+        font-size: 14px;
+        color: #5B5B5D;
+        margin-bottom: 10px !important;
+        line-height: 20px;
+        margin-top: 13px;
+        margin-left:0%;
+    }
+    .text {
+
+        font-size: 10px;
+        color: #5B5B5D;
+        margin-bottom: 2px !important;
+        line-height: 12px;
+    }
+    .head {
+        font-weight: bold;
+
+        font-size: 15px;
+        margin-top: 8px;
+        margin-bottom: 0px;
+        margin-left: 15px;
+    }
+ 
+    .page-eighth .head {
+        margin-left:0px !important;
+    }
+	.page-eighth img {
+    margin-left: -7px !important;
+}
+
+    .page-9th-01img {
+        height: 220px;
+        height: 12%;
+        width: 95%;
+        padding-left:7px;
+        padding-bottom: 20px;
+    }
+    .page-9th li, .page-9th p {
+        font-size: 14px;
+        margin-bottom: 5px;
+        padding-left:0px;
+        margin-right: 20px;
+    }
+    .page-10th .subtitle {
+        color: #0061AC;
+        font-size: 13px;
+        height: 35px;
+        margin-top:0px;
+        . padding: 11px;
+        padding-top: 0px;
+        padding-left: 36px;
+    }
+    .page-10th .subtitle {
+        font-size: 13px;
+    }
+    .page-10th .isi-head {
+        color: #532D84;
+        font-size: 18px;
+        margin: 0;
+        margin-top: 11px;
+        margin-bottom: 10px;
+        padding-left:0px;
+    }
+    .page-10th .page-inners-text {
+        padding-left: 0px;
+        color: rgb(95, 99, 105);
+        font-size: 14px;
+        margin-left:0px;
+    }
+    ul.tenthpage li {
+        font-size: 14px;
+    }
+    .page-10th .txtul li, .page-10th .txtul-2 li {
+        margin-left: 46px;
+    }
+	.page-10th ul {
+    margin-left: -22px;
+	}
+
+    .page-10th-1st {
+        height: 5%;
+        width: 100%;
+        padding-left: 3%;
+        padding-top: 10px;
+    }
+ 
+    .page-10th .page-inners-titles {
+        padding-left: 0px;
+        margin-left: 24px;
+        font-size: 15px !important;
+        padding-bottom: 5px;
+    }
+    .padd {
+        padding-top: 100px;
+    }
+    .page-10th li, .page-10th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left: 30px;
+
+    }
+    .last-reference ol li {
+        font-size: 14px;
+        line-height: 24px;
+
+        color: rgb(95, 99, 105);
+    }
+    .page-11th .subtitle {
+        color: #0061AC;
+        height: 25px;
+        padding-left: 36px;
+        margin-top:0px;
+    }
+    .page-11th li {
+        font-size: 14px;
+        margin-bottom: 2px;
+    }
+    .page-11th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left:0px !importantss;
+    }
+    .img-11-th-1st {
+        height: 10%;
+        width: 98%;
+        padding-left: 7px;
+    }
+    .page-12th .subtitle {
+
+        font-size: 12px;
+    }
+    .page-12th .subtitle {
+        color: #0061AC;
+        font-size: 13px;
+        height: 50px;
+        margin-top: -30px;
+        padding-top: 32px;
+        padding-left: 36px;
+    }
+    .page-12th li, .page-12th p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        margin-left:0%;
+    }
+    .page-12th .subtitle {
+        color: #0061AC;
+        font-size: 15px;
+        height: 60px;
+        margin-top:0px;
+        padding-top: 32px;
+        padding-left: 36px;
+    }
+    .page-inners-titles {
+        font-weight: bold;
+        color: #58575C;
+        font-size: 14px !important;
+        padding-left:0px !important;
+        padding-bottom: 8px;
+    }
+    .t12th-img-2t {
+        height: 13%;
+        margin-left: 10px !important;
+        width: 100%;
+    }
+    .page-12th b {
+
+        font-weight: normal !important;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .page-12th .isi-head {
+        margin-top: 8px !important;
+    }
+    .page-12th .isi-head strong {
+        font-size: 22px;
+        margin-left:0%;
+    }
+    .page-12th .last-foots {
+
+        font-size: 12px;
+    }
+    .page-13 img {
+        width: 100%;
+        height: 10%;
+        margin-bottom: 37px !important;
+    }
+    .page-13 li, .page-13 p {
+        font-size: 14px;
+        margin-bottom: 2px;
+        line-height: 22px;
+    }
+    .img-14th {
+        height: 10%;
+        margin-bottom: 13px !important;
+        margin-left: -22px !important;
+    }
+    .page-14 p {
+        font-size: 12px;
+        color: #5B5B5D;
+        margin-bottom: 2px;
+        line-height:16px;
+    }
+    .isi-head{
+        margin-top: 25px !important;
+    }
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) 
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) {
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+    top: -27px;
+    bottom: 100%;
+    transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -webkit-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -moz-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -o-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    width: 56%;
+}
+.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 10px !important;
+padding: 6px !important;
+border-radius: 4px;
+margin: 4px !important;
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.header-mid {
+    font-size: 45px;
+
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 26px;
+    text-align: center;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 28px;
+    text-align: center;
+    margin-top: -12px;
+}
+.flippageone .text-contents-table {
+    padding-left: 60px;
+}
+.text-contents-table .content {
+    padding-left: 12px;
+}
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) {
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+    top: -65px;
+    bottom: 100%;
+    transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -webkit-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -moz-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    -o-transform:translate(70%, 33%) scale(0.3791) translateZ(0px) !important;
+    width: 56%;
+}
+.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 10px !important;
+padding: 6px !important;
+border-radius: 4px;
+margin: 4px !important;
+	}
+	tumor-sample-content .list-text {
+    font-size: 16px;
+    margin-bottom: 0px !important;
+    margin-left: 0px;
+    color: #231f20;
+}
+.clinical-image-page2 {
+    margin-top: 0;
+}
+.image-tev1, .image-tev2 {
+    margin-bottom: 8px !important;
+}
+
+.footer-logo {
+    width: 150px;
+    position: absolute;
+    right: 49px;
+    margin-top: -30px;
+}
+
+.tumor-sample-content .list-text {
+    font-size: 14px;
+    margin-bottom: 0px !important;
+    margin-left: 0px;
+
+    color: #231f20;
+}
+
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.header-mid {
+    font-size: 45px;
+
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 26px;
+    text-align: center;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 28px;
+    text-align: center;
+    margin-top: -12px;
+}
+.flippageone .text-contents-table {
+
+}
+.text-contents-table .content {
+padding-left: 60px;
+}
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) {
+.magazine-viewport .container-flip {
+    height: 100%;
+    left: 0;
+     top: -100px;
+    bottom: 100%;
+    transform:translate(68%, 33%) scale(0.4091) translateZ(0px) !important;
+    -webkit-transform:translate(68%, 33%) scale(0.3791) translateZ(0px) !important;
+    -moz-transform:translate(68%, 33%) scale(0.3791) translateZ(0px) !important;
+    -o-transform:translate(68%, 33%) scale(0.3791) translateZ(0px) !important;
+    width: 56%;
+}
+.tumor-sample-content .list-text {
+    font-size: 14px;
+    margin-bottom: 0px !important;
+    margin-left: 0px;
+
+    color: #231f20;
+}
+
+.next-icon, .pre-icon, .start-auto, .zoom-in, .zoom-out, .flipbook-menu-btn, .volume_up, .fa-expand, .fa-download {
+width: 12px !important;
+font-size: 10px !important;
+padding: 6px !important;
+border-radius: 4px;
+margin: 4px !important;
+	}
+	.flipbook-HeaderWrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    height: 40px;
+    background: #5d2988;
+}
+.header-mid {
+    font-size: 45px;
+
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+
+    font-size: 26px;
+    text-align: center;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+ 
+    font-size: 28px;
+    text-align: center;
+    margin-top: -12px;
+}
+.flippageone .text-contents-table {
+    padding-left: 0px;
+}
+.text-contents-table .content {
+    padding-left: 70px;
+}
+
+}
+
+@media screen and (min-width:414px) and (max-width:767px) {
+    div.magazine-viewport .container-flip {
+        bottom: unset !important;
+    }
+}

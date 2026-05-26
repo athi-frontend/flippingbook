@@ -1,0 +1,516 @@
+.page-two .text {
+    font-size: 21px; 
+	line-height: 24px;	
+	margin-bottom: 7px !important;
+}
+.page-two .cont-titl {
+    font-size: 20px;   
+}
+.font-for-specialchars{
+	font-family: FuturaStd-Book_w0 !important;	
+}
+.singles{	 
+	width:100%;
+	height:1280px;	
+}
+.flipbook_box{
+	width:100%;
+	height:1294px;	
+	position:relative;	
+}
+ .page-two{
+	height:1398px;
+ } 
+ .flippageone{
+	 height:1398px;
+ } 
+ .singles{
+	height:1398px;
+ }
+ 
+ /*
+ .page-five{
+ height:1400px !important;s
+	 height:1305px !important;
+ }
+ .page-three{
+	 height:1335px !important;	
+ }
+ .page-sevens{
+	 height:1308px !important; 
+ }
+ .page-eighth{
+	 height:1308px !important; 
+ }.page-9th{
+	 height:1308px !important; 
+ }.page-10th{
+	 height:1308px !important; 
+ }
+ .page-12th{
+	 height:1308px !important; 
+ }
+ .page-14{
+	 height:1308px !important; 
+ }*/
+ .page_bracket{
+	  
+ }
+ .flippageone .header-top, .flippageone .header-mid, .flippageone  .header-bot{
+	 padding-left: 52px;
+	text-align:left !important;	 
+ } 
+ 
+ .page-two .title {  
+    font-size: 28px;
+	margin-bottom: 18px;
+}
+.logo{
+margin-top: -44px !important;
+}
+.flipbook_box{
+padding-left:15px;
+padding-right:15px;
+}
+ 
+.first-half{
+padding:0px 15px 0px 20px;
+}
+.sec-half{
+padding:0px 22px 0px 15px;
+}
+.page-two .cont-titles{
+ font-size: 21px !important; 
+}
+.header-top {     
+	margin-top: 148px;
+    font-size: 35px !important;
+    text-align: left !important;
+}
+.header-mid {
+	font-size: 61px !important;
+	text-align: left !important;
+}
+.header-bot {     
+    font-size: 38px !important;
+    text-align: left !important;
+}
+.flippageone .content{
+font-size: 33px !important;
+margin-bottom:55px!important;
+font-weight:normal !important;
+}
+
+.flippageone .conte, .flippageone .pagenos{
+font-size: 26px !important;
+margin-bottom:25px!important;
+font-weight:normal !important;
+}
+.flippageone .pagenos{
+text-align:center !important;
+}
+
+ .page-three{
+	  height:1398px !important;
+ }
+ .page-headings {
+     
+    min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;
+} 
+.page-three .page-headings {
+    padding-top: 60px !important;
+    
+}
+.subttles, .subtitles, .page-11th .subtitle, .page-14 .subtitle, .page-9th .subtitle, .page-10th .subtitle, .subtitle	 {
+    font-size: 21px !important;
+	height: auto !important;
+	padding-left: 63px !important;
+	padding-top: 23px !important;
+	line-height: 25px !important;
+	min-height:105px !important;
+}
+.layer-pages{
+ 	padding-right: 50px !important;
+}
+.page-three .cont-titl{
+	font-size: 26px !important;
+}
+ 
+.inner-page-covers{
+padding-left: 60px !important;
+}
+.page-three .text{
+font-size: 18px !important;
+}
+.page-three .textnew{
+font-size: 15px !important;
+line-height: 18px !important;
+}
+/*fourth*/
+ .page-four{
+	  height:1398px;
+ }
+ .page-four .page-headings {
+    padding-top: 60px !important; 
+}
+.page5img {
+    width: 83% !important;   
+	margin-left:-25px !important;
+	margin-top:10px !important;
+	display:block !important;
+}
+.page-four .text{
+font-size: 18px !important;
+}
+.page-four .new-cls{
+font-size: 15px !important;
+line-height: 18px !important;
+}
+.page-four .cont-titl{
+	font-size: 26px !important;
+}
+/*fifth*/
+.page-five{
+ height:1398px;
+}
+.page-five .text{
+font-size: 19px !important;
+}
+.page-five .new-cls{
+font-size: 15px !important;
+line-height: 18px !important;
+}
+.page-five .page-heading {
+    padding-top: 60px !important; 
+	 min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;
+	width:105% !important;
+	border-radius:unset !important;
+	margin-left:-15px !important;
+}
+.page-five .cont-titl{
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.page-five .layer-pages {
+	padding-right:0px !important;
+}
+.page-five .title-covers{
+	width:96% !important;
+}
+.page-five .page6img{
+ height: 21% !important;
+ margin-left:-80px !important;
+}
+
+/*page-sevens*/
+
+.page-sevens{
+ height:1398px;
+}
+.page-sevens .text{
+font-size: 19px !important;
+}
+.page-sevens .texts{
+font-size: 15px !important;
+width: 118%;
+line-height: 20px !important;
+}
+.page-sevens .textbot{
+ font-size: 15px !important;
+}
+.page-sevens .cont-titles{
+ font-size: 19px !important;
+}
+.page-sevens .new-cls{
+font-size: 15px !important;
+line-height: 18px !important;
+}
+.page-sevens .page-headings{
+    padding-top: 125px !important; 
+	 min-height: 63px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;	 
+}
+.page-sevens .cont-titl{ 
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.lastpage {    
+    height: 664px !important;
+}
+
+/*page-eighth*/
+.page-eighth{
+ height:1398px;
+}
+.page-eighth .page-heading{
+    padding-top: 60px !important; 
+	 min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;
+	width:105% !important;
+	border-radius:unset !important;
+	margin-left:-15px !important;	
+}
+.page-eighth .cont-titl{ 
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.page-eighth .head{ 
+	margin-top: 35px !important;
+	margin-bottom: 0px !important;
+	font-size: 22px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-eighth .text{
+ font-size: 19px !important;
+}
+.page-eighth .cont-titles{
+font-size: 19px !important;
+}
+.page-eighth .textpag{
+font-size: 15px !important;
+}
+
+/*page-9th*/
+.page-9th{
+ height:1398px;
+}
+.page-9th .page-heading{
+    padding-top: 60px !important; 
+	 min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;	 
+}
+.page-9th .cont-titl{ 
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.page-9th .head{ 
+	margin-left: -10px;
+	margin-top: 35px !important;
+	margin-bottom: 20px !important;
+	font-size: 20px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-9th p{
+ font-size: 15px !important;
+ line-height: 16px !important;
+}
+.page-9th .page-9th-01img{
+	height: 670px !important;
+}
+.page-9th .inner-page-covers{
+ padding-right:0px !important;
+}
+.page-9th .cont-titles{
+font-size: 19px !important;
+}
+.page-9th .textpag{
+font-size: 15px !important;
+}
+  /*page-10th*/
+  
+  .page-10th{
+ height:1398px;
+}
+.page-10th .page-heading{
+   padding-top: 60px !important; 
+	 min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;
+	width:105% !important;
+	border-radius:unset !important;
+	margin-left:-15px !important;	 
+}
+.page-10th .cont-titl{ 
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.page-10th .head{ 
+	margin-left: -10px;
+	margin-bottom: 0px;
+ 	font-size: 20px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.tenthpage{
+margin-top:180px;
+}
+.page-10th-1st{
+	height:500px !important;
+}
+.page-10th li{
+ font-size: 19px !important;
+}
+.page-10th .cont-titles{
+ font-size: 19px !important;
+ margin-top:230px;
+}
+.tenthpage li{
+ font-size: 15px !important;
+ line-height: 16px !important;
+}
+
+/*page-11th*/
+
+.page-11th{
+ height:1398px;
+}
+.page-11th .page-heading{
+   padding-top: 60px !important; 
+    min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important; 	 
+}
+.page-11th .cont-titl{ 
+	font-size: 26px !important;
+	margin-top: 25px;
+	display: block;
+}
+.page-11th .head{ 
+	margin-left: -10px;
+	margin-bottom: 10px !important;
+ 	font-size: 20px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-11th li, .page-11th  .text{
+ font-size: 18px !important;
+ line-height: 20px !important;
+}
+.img-11-th-1st{
+height:200px !important;
+}
+.img-11-th-3rd{
+height:160px !important;
+}
+.img-11-th-4th {
+height:270px !important;
+}
+.m-top-div{
+margin-top:90px;
+}
+
+/*page-12th*/
+
+  .page-12th{
+ height:1398px;
+}
+.page-12th .page-heading{
+   padding-top: 60px !important; 
+	 min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important;
+	width:105% !important;
+	border-radius:unset !important;
+	margin-left:-15px !important;	 
+}
+.page-12th .isi-head strong{ 
+	font-size: 26px !important;
+	margin-top: 160px !important;
+	display: block;
+}
+.page-12th .head{ 
+	margin-left: -10px;
+	margin-bottom: 0px;
+ 	font-size: 20px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-12th li{
+margin-bottom: 8px !important;
+}
+.page-12th li{ 
+ font-size: 18px !important;
+ line-height: 20px !important;
+} .page-12th b{ 
+ font-size: 17px !important;
+}
+ .page-12th .text-isi{ 
+ font-size: 19px !important;
+}
+ .page-12th .text-isi strong{ 
+ font-size: 19px !important;
+}
+.t12th-img-1t{
+height: 230px !important;
+margin-left: -5px !important;
+}
+
+/*page-13*/
+ .page-13{
+height:1398px;
+}
+#thirteen{
+padding-left:0px !important;
+}
+.page-13 .page-heading{
+   padding-top: 60px !important; 
+    min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important; 	 
+}
+.page-13 img{
+	height: 858px !important;
+	margin-top:50px !important;
+	margin-left: 20px !important;
+}
+.page-13 li{ 
+ font-size: 18px !important;
+ line-height: 20px !important;
+} 
+
+/*page-14*/
+.page-14{
+height:1398px;
+}
+.page-14 .page-heading{
+   padding-top: 60px !important; 
+    min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important; 	 
+}
+.page-14 .head{ 
+	margin-left: -10px;
+	margin-bottom: 0px;
+ 	font-size: 20px !important; 
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-14 .text{  
+ 	font-size: 15px !important; 	 
+ 	line-height: 20px !important; 	 
+}
+.img-14th{
+	height:515px !important;
+	width:100% !important;
+	margin-left: -30px !important;
+}
+.page-14 .cont-titl{ 
+	font-size: 26px !important;
+	 
+	display: block;
+}
+/*last-reference*/
+
+.last-reference .page-heading{
+   padding-top: 60px !important; 
+    min-height: 125px !important;
+	font-size: 26px !important;
+	padding-left: 63px !important; 	 
+}
+.last-reference{
+height:1398px;
+}
+.last-reference{
+padding-left:0px !important;
+}
+.last-reference li{
+	font-size: 18px !important; 	 
+ 	line-height: 25px !important;
+}

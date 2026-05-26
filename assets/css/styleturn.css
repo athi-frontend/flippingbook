@@ -1,0 +1,1462 @@
+@font-face {
+	font-family: FuturaStd-Light_6g;
+	src: url("../fonts/FuturaStd-Light_6g.woff") format("woff");
+}
+
+body {
+   font-family: sans-serif;
+}
+.inner-page-covers{
+   padding: 0px 25px 25px 25px;
+}
+
+.page4img {
+    width: 96%;margin-left: 10px !important;height:55%;
+}
+.page5img {
+    width: 75%;
+	height: 56%;
+	margin-left: -12px !important;
+}
+.page6img {
+       width: 95%;
+margin-left: -52px !important;
+    height: 24%;
+}
+.padd {
+    padding-top:160px;
+}
+.header-top {
+    margin-top: 145px;
+    color: #FFF;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 27px;
+    text-align: center;
+}
+.header-mid {
+       font-size: 46px;
+    font-family: sans-serif;
+    margin-top: -20px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.header-bot {
+    color: #FFF;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 29px;
+    text-align: center;
+    margin-top: -12px;
+}
+.content {
+    font-size: 23px;
+    font-family: sans-serif;
+    left: 77.0103px;
+    color: #f46525;
+    font-weight: bold;
+    font-style: italic;
+    margin-left:5px;
+}
+.conte {
+    font-size: 19px !important;
+    font-style: italic;
+    color: #FFF;
+}
+.pagenos {
+    font-size: 18px;
+    font-style: italic;
+    color: #FFF;
+    line-height:15px !important;
+}
+.logo {
+    width: 30%;
+    float: right;
+	padding-bottom: 24PX;
+    PADDING-right: 18px;
+margin-top: -68px !important;
+}
+
+.flippageone {
+    background-image:url(../images/page1-bg.png);
+    height: 100%;
+    background-size: 100% 100%;
+}
+.page-two,.page-four,.page-sevens,.page-fifteen,.page-11th, .page-9th, .page-13 {
+    background-image: url(../images/referance-bg.png);
+    background-size: 100% 100%;
+    height: 100%;
+}
+.lastpage{
+    width:100%;
+	height: 464px;
+}
+.mtop {
+    margin-top: 180px;
+}
+.page-heading{
+    background-color: #5A2B81;
+    color: #fff;
+    /*padding: 15px;*/
+    margin-top: 0px;
+    /*border-radius: 0px 0px 28px 0px;*/
+    /*margin-left: -15px;*/
+    min-height: 75px;
+    font-family: FuturaStd-Bold_w1;
+    font-size: 18px;
+    padding-top: 32px;
+    padding-left: 36px;
+    padding-bottom: 8px;
+	margin-bottom:0px;
+}
+.page-headings{
+    background-color:#5A2B81;
+    color: #fff;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 0px 0px 28px 0px;
+    font-size: 14px;
+    min-height: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+	margin-bottom:0px;
+}
+.pageno3 {
+    margin-top: 65px;
+float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno4 {
+    margin-top: 10px;
+float: left;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno5 {
+    margin-top: 35px;
+float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno6 {
+float: left;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+    margin-top: -24px;
+}
+.pageno7 {
+    float: right;
+    margin-top: 20px;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno8 {
+    float: left;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno9 {
+    float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+padding-left:15px !important;
+}
+.pageno10 {
+    float: left;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+}
+.pageno11 {
+         float: right;
+    background: #5C6369;
+    padding: 3px 10px 0px 10px;
+    color: #FFF;
+    font-size: 16px !important;
+    border-radius: 10px 0px 0px 0px;
+    margin-top: -20px;
+    z-index: 9999;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+	padding-left: 15px !important;
+}
+.pageno12 {
+    float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+    margin-top: -25px;
+}
+.pageno13 {
+    float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+    margin-top: -9px;
+}
+.pageno14 {
+    float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF !important;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+  
+}
+p.pageno14{
+    line-height: 15px !important
+    
+}
+.pageno15 {
+    float: right;
+background: #5C6369;
+padding: 3px 10px 0px 10px;
+color: #FFF;
+font-size: 16px !important;
+border-radius: 10px 0px 0px 0px;
+margin-top: 4px;
+ }
+.last-reference ol li {
+    font-size:8px;
+    line-height: 12px;
+ }
+.title {
+    margin-top: 41px;
+    margin-left: 10px;
+    font-family: FuturaStd-Bold_w1;
+    font-size: 12px;
+    font-weight: bold;
+    color: #542887;
+    margin-bottom: 0px;
+}
+.cont-titl {
+    color: #512B82;
+         font-family: FuturaStd-Heavy_wf;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0px;
+   
+}
+.cont-titles {
+    color: #512B82;
+    font-style: italic;
+    font-size: 11px;
+    font-weight: bold;
+}
+.cont-titles {
+    margin-bottom: 0px;
+}
+.text {
+      font-family:FuturaStd-Book_w0;
+    font-size: 14px;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 23px;
+}
+.subtitles {
+    color:#005CB8;
+    font-size: 14px;
+    font-family: FuturaStd-Bold_w1;
+    
+    height: 140px;
+    padding: 10px;
+    background-color: #F4F4F4;
+   /* margin-top: -9px;  */
+     border-radius: 0px 0px 28px 0px;
+    padding-left: 36px;
+}
+.subttles{
+    color: #005CB8;
+    font-size: 14px;
+    font-family: FuturaStd-Bold_w1;
+     height: 70px;
+    padding: 10px;
+    background-color: #F4F4F4;
+   /* margin-top: -4px; */
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+     line-height: 18px;
+}
+.new-cls {
+    margin-top: 15px;
+}
+.new-cs {
+     margin-top: 6px;
+}
+.img-bg {
+    width: :55%;
+    margin-left: 30px;
+}
+.head {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+    /*margin-top: 8px;*/
+    margin-bottom: 0px;
+    margin-left: -15px;
+}
+
+/**** Simiyone css *****/
+ /*page 14*/
+.page-14 .page-heading{
+    margin-bottom:0px !important;     
+ }
+.page-14 .subtitle{
+color: #005CB8;
+font-family: FuturaStd-Bold_w1;
+background-color: #F4F4F4;
+margin-top:10px;
+padding-left: 36px;
+border-radius: 0px 0px 28px 0px;
+margin-bottom: 28px;
+}
+.title-covers{
+    border-radius: 0px 0px 28px 0px;
+    background-color:#F4F4F4;
+    margin-right: 20px;
+    margin-left: -15px;
+}
+.page-14  p{
+     font-size: 11px;
+    color: #5B5B5D;
+margin-bottom: 2px;
+line-height: 16px;
+}
+.img-14th{
+   width: 85%;
+height: 157px;
+}
+.isi-head{
+color:#532D84;
+font-size: 18px;
+margin: 0;
+margin-top: 11px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+.page-12th .isi-head{
+color:#532D84;
+font-size: 12px;
+margin: 0;
+margin-top: -10px;
+}
+.theme-color
+{
+color:#532D84;
+}
+.last-foot{
+margin-top:10px;
+font-style:italic;
+}
+/*page-13*/
+.page-13 img{
+width: 100%;
+height: 658px;
+margin-bottom: 37px !important;
+}
+.page-13 ul{
+padding-left: 7px;
+}
+.page-13  li,.page-13 p{
+font-size:14px;
+margin-bottom:2px;
+}
+/*12th page*/
+.page-12th .subtitle
+{
+color: #0061AC;
+font-size: 13px;
+
+height: 65px;
+margin-top: -30px;
+padding-top: 32px;
+padding-left: 36px;
+
+}
+.t12th-img-1t{
+     width: 60%;
+    padding-top: 10px;
+    margin-bottom: 20px !important;
+}
+.t12th-img-2t{
+height: 300px;
+margin-left: -4px !important;
+}
+.left-box-img{
+width: 39%;
+}
+.page-12th  li,.page-12th p{
+font-size:14px;
+margin-bottom:2px;
+}
+
+/*page 11th*/
+.page-11th .page-heading{
+font-size:15px;
+}
+.page-11th .subtitle
+{
+	color: #0061AC;
+	padding-left: 36px;
+/*	margin-top: -4px;  */
+}
+.page-11th  li{
+font-size:14px;
+margin-bottom:2px;
+}
+.page-11th p{
+font-size:14px;
+margin-bottom:2px;
+}
+.img-11-th-1st{
+width: 80%;
+}
+.img-11-th-3rd{
+height:100px; 
+    width: 100%;
+}
+.img-11-th-4th{
+height:160px;
+width:100%;
+}
+
+/*page-10th*/
+
+.page-10th .page-heading{
+font-size:15px;
+}
+.page-10th .subtitle
+{
+    color: #0061AC;
+ /*   margin-top: -4px;  */
+    padding-left: 36px;
+
+}
+ul.tenthpage {
+    font-size: 7.5px;
+}
+ul.tenthpage li{
+    font-size: 11px;
+}
+.page-10th  li,.page-10th p{
+    font-size: 14px;
+    margin-bottom: 2px;
+    margin-left: 30px;
+	font-family: FuturaStd-Medium_wg;
+}
+.page-inners-titles{
+	font-weight:bold !important;
+	color:#58575C !important;
+	font-size:15px !important;
+    padding-left: 21px;
+    padding-bottom: 8px;
+	font-family: FuturaStd-Heavy_wf;
+}
+.page-10th-1st{
+		height: 411px;
+        width: 100%;
+		padding-top: 10px;
+   
+}
+.page-9th{
+
+}
+.page-9th .page-heading{
+font-size:15px;
+height: 75px;
+}
+.page-9th .subtitle
+{
+color:#0061AC; 
+/* margin-top: -4px; */
+padding-left: 36px;
+}
+.page-9th  li,.page-9th p{
+font-size:10px;
+margin-bottom:10px;
+    padding-left: 15px;
+    margin-right: 20px;
+}
+.page-9th-01img{
+	/*height:220px;*/
+	height: 561px;
+    width: 100%;
+    padding-left: 20px;
+        padding-bottom: 20px;
+}
+.page9bot {
+    margin-bottom: 0px !important;
+}
+/*changes*/
+@font-face {
+	font-family: FuturaStd-BookOblique_wm;
+	src: url("../fonts/FuturaStd-BookOblique_wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-HeavyOblique_we;
+	src: url("../fonts/FuturaStd-HeavyOblique_we.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_w1;
+	src: url("../fonts/FuturaStd-Bold_w1.woff") format("woff");
+}
+
+
+.flippageone .header-top,.flippageone .header-mid,.flippageone .header-bot{
+font-family: FuturaStd-Bold_w1 !important;
+margin-bottom:10px;
+}
+.flippageone .header-mid{
+margin-bottom: 4px !important;
+}
+.flippageone .content{
+font-family:FuturaStd-HeavyOblique_we;
+font-weight:normal !important;
+font-style:normal !important;
+}
+.conte, .pagenos{
+font-family:FuturaStd-BookOblique_wm;
+font-weight:normal !important;
+font-style:normal !important;
+font-size: 18px;
+}
+.pagenos {
+    font-size: 21px;
+    margin-top: 11px;
+}
+/*page3*/
+/*page3 fonts*/
+@font-face {
+	font-family: FuturaStd-BoldOblique_4a;
+	src: url("../fonts/FuturaStd-BoldOblique_4a.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Heavy_wf;
+	src: url("../fonts/FuturaStd-Heavy_wf.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_w1;
+	src: url("../fonts/FuturaStd-Bold_w1.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Book_w0;
+	src: url("../fonts/FuturaStd-Book_w0.woff") format("woff");
+}
+.title{
+font-family:FuturaStd-Heavy_wf;
+font-weight:normal;
+}
+.text{
+font-family:FuturaStd-Book_w0;
+}
+.cont-titl{
+font-family:FuturaStd-Bold_w1;
+font-weight:normal;
+}
+.cont-titles{
+	font-family: FuturaStd-BoldOblique_4a;
+	font-size: 14px;
+	font-style:normal !important;
+ margin-left: -8px;
+  }
+/*page4*/
+@font-face {
+	font-family: FuturaStd-Medium_wg;
+	src: url("../fonts/FuturaStd-Medium_wg.woff") format("woff");
+}
+ .page-headings{
+font-family: FuturaStd-Bold_w1;
+font-size: 18px;
+padding-bottom: 0px;
+padding-top: 22px;
+      padding-left: 36px;
+ }
+ .subtitles{
+font-family:  FuturaStd-Bold_w1;
+font-size: 14px;
+font-weight:normal;
+ }
+ .page-three .cont-titl{
+ font-family: FuturaStd-Heavy_wf;
+font-weight: normal;
+     font-size: 18px;
+     padding-left: 10px;
+     margin-left: -16px;
+     margin-bottom: 2px;
+ }
+ .page-three .text{
+ font-family: FuturaStd-Medium_wg;
+     font-size: 14px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 23px !important;
+     margin-left: -6px;
+     margin-right: 20px;
+
+	 }		  color:rgb(95, 99, 105);
+			 }
+			 /*page-5*/
+			 .subttles{
+			 font-family:FuturaStd-Bold_w1;
+			 font-weight:normal;
+			 }
+			 .page-four .cont-titl{
+				font-family:FuturaStd-Heavy_wf;
+				padding-top: 86px;
+				padding-bottom: 10px;
+				margin-left: -8px;
+			 }
+			 .page-four .cont-titles{
+			 font-family: FuturaStd-HeavyOblique_we;
+			 font-weight:100;
+			 }
+			 /*page 6*/
+			 .page-five .page-heading{
+			 padding-bottom: 0;
+			padding-top: 15px;
+			font-family: FuturaStd-Bold_w1;
+			font-size: 18px;
+			border-radius: unset !important;
+			 }
+			 .page-eighth .page-heading{
+				border-radius: unset !important;
+			 }
+			 .page-five .cont-titl{
+				font-family:FuturaStd-Heavy_wf;
+			/*	margin-left: -9px;  */
+                
+			 }
+			 .page-five .text {
+			     font-family: FuturaStd-Medium_wg;
+			    line-height: 23px;
+			    font-size: 14px;
+			 color:rgb(95, 99, 105);
+                 margin-right: 20px;
+			 }
+			 .head{
+				font-family:FuturaStd-Medium_wg;
+				font-weight:normal;
+				color:#58575C;
+			 }
+			 .page-num.odd{
+			 left:0;
+			 padding: 3px 10px 0px 10px !important;
+               
+			 }
+			 .page-num.even {
+    right: 0;
+    padding: 3px 10px 0px 10px !important;
+}
+
+			 .page-num{
+			 position:absolute;
+			 bottom:0; 
+			 color: #fff !important;
+			 margin:0 !important;
+                  font-size: 11px !important;
+			 }
+			 
+			  .page-five .text-last{
+ 				font-size: 11px;
+				font-family:FuturaStd-Medium_wg !important;
+			 }
+			 
+			 /*page-seven*/
+			 
+			 .page-six .texts{
+			     font-family: FuturaStd-Medium_wg;
+ line-height: 16px;
+font-size: 11px;
+    color: rgb(95, 99, 105);
+    margin-right: 20px;
+                margin-top: 30px;
+			 }
+.textbot {
+    font-family: FuturaStd-Medium_wg;
+    line-height: 10.5px;
+    font-size: 9px;
+    color: rgb(95, 99, 105);
+    margin-right: 20px;
+}
+			  .page-six .cont-titl{
+			 font-family: FuturaStd-Heavy_wf;
+                  /*margin-left: -15px;*/
+			 }
+			.page-six .cont-titles{
+			font-weight:normal;
+			font-family:FuturaStd-Heavy_wf;
+			font-style:italic !important;
+			 }
+.page-10th .cont-titles{
+			font-weight:normal;
+			font-family:FuturaStd-Heavy_wf !important;
+			font-style:italic !important;
+    color: #512B82;
+font-size:14px;
+    margin-left: 15px;
+	margin-top:120px;
+	
+			 }
+			 /*page-8*/
+			 
+			 .page-seven .page-heading{
+			 padding-top: 32px;
+			padding-bottom: 0px;
+			font-family:FuturaStd-Bold_w1;
+			font-size:12px;
+			
+			 }
+			 .page-seven .head
+			 {
+			 color: rgb(95, 99, 105);
+			 }
+			  .page-seven .text{
+			 font-family:FuturaStd-Medium_wg;
+                  font-size: 14px;
+			  color:rgb(95, 99, 105);
+			 }
+			  .page-seven .cont-titl{
+			 font-family:FuturaStd-Heavy_wf;
+			 }
+			   .page-seven .cont-titles{
+			  font-family:FuturaStd-HeavyOblique_we;
+			 }
+			 /*page 9*/
+			 .page-9th  .subtitle{
+			font-family: FuturaStd-Bold_w1;
+			font-size: 14px; 
+			 }
+			 .page-9th .page-heading{
+			  
+			 border-radius: 0px 0px 28px 0px;
+			 }
+			 
+			 .page-9th p{
+			 font-family:FuturaStd-Medium_wg;
+			  color:rgb(95, 99, 105);
+			 }
+			 
+			 /* page-10th*/
+			  .page-10th .page-heading{
+			 
+			padding-bottom: 0px;
+			font-family: FuturaStd-Bold_w1;
+			font-size: 18px;
+ 			 }
+			 .page-10th .subtitle {
+			    font-family: FuturaStd-Bold_w1;
+			    font-size: 14px;
+			}
+			 .page-10th .isi-head{
+			 font-family: FuturaStd-Heavy_wf;
+			/*	margin-left: -9px; */
+			}
+			 .page-10th .page-inners-titles{
+			    color: #58575C;
+			    font-family: FuturaStd-Heavy_wf
+			}
+			 .page-10th p{
+			 font-family: FuturaStd-Medium_wg;
+			  color:rgb(95, 99, 105);
+                /* margin-left: -11px;*/
+			}
+			 .page-10th .last-foot{
+				 font-family: FuturaStd-HeavyOblique_we;
+				 font-style:normal;
+			}
+			
+			/*page-11th*/
+			.page-11th .page-heading{
+			    padding-top: 35px;
+ 			padding-bottom: 0px;
+			font-family: FuturaStd-Bold_w1;
+			font-size: 18px;
+			border-radius: 0px 0px 28px 0px;
+                   
+			 }
+			 .page-11th  .subtitle {
+			    font-family: FuturaStd-Bold_w1;
+			    font-size: 11px;
+			}
+			 .page-11th  strong{
+			 color: rgb(95, 99, 105);
+			    font-family: FuturaStd-Heavy_wf;
+                 padding-left: 15px;
+                 font-size: 14px;
+			}
+			 .page-11th  p{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+                
+					padding-left: 0px;
+                     margin-bottom: 5px;
+					 margin-left: -1px;
+			}
+                .page-11th  ul li{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+                 
+                     margin-top: 10px;
+			}
+			/*page-12th*/
+			.page-12th .page-heading{
+			     padding-top:35px;
+    padding-bottom: 0px;
+    font-family: FuturaStd-Bold_w1;
+    font-size: 18px;
+			 }
+ .page-12th  .subtitle {
+color: #005CB8; 
+font-family: FuturaStd-Bold_w1;
+background-color: #F4F4F4;
+margin-top:10px;
+padding-left: 36px;
+border-radius: 0px 0px 28px 0px;
+margin-bottom: 28px; 
+			}
+			 .page-12th{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+			}
+.page-12th  ul li{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+			}
+			 
+			 .page-12th .isi-head  strong{
+			 font-family: FuturaStd-Heavy_wf;
+			 font-weight: normal;
+			}
+			 .page-12th .last-foot{
+			    font-family: FuturaStd-HeavyOblique_we;
+			
+			}
+			
+			/*page-13*/
+			.page-13 .page-heading{
+			 padding-top: 35px;
+			padding-bottom: 0px;
+			font-family: FuturaStd-Bold_w1;
+			font-size: 18px;
+			    border-radius: 0px 0px 28px 0px;
+			 }
+			  .page-13 p, .page-13  ul li{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+			}
+			/*page-14*/
+			.page-14 .page-heading{
+			 padding-top:15px;
+			padding-bottom: 0px;
+			font-family: FuturaStd-Bold_w1;
+			font-size: 18px;
+			    border-radius: 0px 0px 28px 0px;
+			 }
+			 .page-14 .title-covers {
+			    border-radius: 0px 0px 28px 0px;
+			    background-color: #F4F4F4;
+			}
+			 .page-14  .subtitle {
+			    font-family: FuturaStd-Bold_w1;
+			    font-size: 11px;
+			}
+			  .page-14 p, .page-14  ul li{
+				 font-family: FuturaStd-Medium_wg;
+				 color:rgb(95, 99, 105);
+			}
+			.page-14 strong{
+			FONT-FAMILY: FuturaStd-Medium_wg;
+			color: rgb(95,99,105);
+			font-size: 11px;
+			}
+			.page-14 .isi-head strong{
+			color: #532D84;
+			font-family: FuturaStd-Heavy_wf;
+			font-weight: normal;
+			}
+			.page-14  .last-foot strong{
+			color: #532D84;
+			font-family:  FuturaStd-HeavyOblique_we;
+			font-size:14px;
+			}
+			/*page-fifteen*/
+			.page-fifteen .page-heading{
+			 padding-top: 35px;
+			padding-bottom: 0px;
+ }
+.page-two .title{
+    margin-top: 95px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    font-size: 22px;
+			}
+			
+			
+.thumbnails-side  img{
+		height:180px;
+		width:200px;
+	}
+			
+			
+.flippageone .conte:hover{
+text-decoration:underline;
+cursor:pointer;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+.flippageone .pagenos:hover{
+text-decoration:underline;
+cursor:pointer;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+/******* New Styles **********/
+.page-two .text {
+   font-family: FuturaStd-Book_w0;
+font-size: 14px;
+color: #5B5B5D;
+margin-bottom: 10px !important;
+line-height: 21px;
+    
+}
+.page-two .cont-titl {
+    color: #512B82;
+    font-family: FuturaStd-Bold_w1;
+    font-size:14px;
+    margin-bottom: 0px;
+}
+.page-two .cont-titles {
+    font-family: FuturaStd-BoldOblique_4a;
+    font-size: 12px;
+    font-style: normal !important;
+    padding-left: 0px;
+}
+.page-four .text {
+    font-family:  FuturaStd-Medium_wg;
+    font-size: 14px;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 23px;
+margin-left: -8px;
+    margin-right: 20px;
+}
+.page-eight .head {
+    font-size: 11px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-family: FuturaStd-Heavy_wf;
+    font-weight: normal;
+    margin-left: -5px;
+}
+.page-six .cont-titles {
+    font-family: FuturaStd-Heavy_wf !important;
+    font-size: 11px;
+   /* font-style: normal !important;*/
+    padding-left: 0px;
+   /* margin-left: -15px;*/
+    margin-top: 15px;
+}
+.page-five .img-fig {
+    font-family: FuturaStd-Book_w0;
+    font-size: 11px;
+    color: #5B5B5D;
+	margin-bottom: 15px !important;
+    margin-top: 12px;
+	margin-left:0px;
+
+    
+}
+.page-10th .page-inners-titles{
+    padding-left: 0px;
+    margin-left: 20px !important;
+        font-size: 15px !important;
+        padding-bottom: 5px;
+	font-family:FuturaStd-Medium_wg;
+	font-weight:bold;
+
+}
+.page-10th .page-inners-text {
+    padding-left: 0px;
+	font-family: FuturaStd-Medium_wg;
+    color:#58575C;
+    font-size: 15px;
+	margin-left:0px;
+}
+.page-10th .col-sm-7, .page-10th .col-sm-12{
+padding-left:0px !important;
+}
+.page-10th-1st {
+margin-left: -13px !important;
+}
+.page-10th .col-sm-12{
+margin-left: -18px;
+}
+.page-10th .txtul li, .page-10th .txtul-2 li{
+margin-left: 18px;
+}
+
+
+
+/*CHANGES ION TUESDAY*/
+ .last-reference {
+ padding-right: 15px !Important;
+ }
+.last-reference ol{
+padding-left: 10px;
+}
+.last-reference ol li{
+    font-size: 14px;
+line-height: 23px;
+	/*font-family: FuturaStd-Medium_wg;*/
+	font-family: FuturaStd-Light_6g;
+	color: rgb(95, 99, 105);
+ }
+.last-reference .page-heading{
+padding-left: 36px;
+border-radius: 0px 0px 28px 0px;
+ font-family: FuturaStd-Bold_w1;
+}
+ .img-14th{
+ height: 315px;
+ margin-bottom: 13px !important;
+ margin-left: -22px !important;
+  }
+ .page-14 .subtitle{
+ background:none !important;
+ }
+ .page-14{
+  padding-right: 27px !Important;
+ }
+ .page-14 strong{
+ 	display: block;
+ }
+ 
+  .page-14  .last-foot {
+    margin-top: 4px !important;
+ }
+ .page-14 .isi-head{
+	margin-top: 45px;
+ }
+ .page-13 img{
+ /*height: 380px;*/
+ padding-left: 6px;
+ }
+ .page-13 .page-heading{
+ padding-left: 36px;
+ }
+ .page-headings, .page-heading{
+ min-height:75px;
+ }
+ .page-13 ul {
+padding-left: 22px;
+}
+.page-12th b{
+font-family: FuturaStd-Bold_w1;
+font-weight: normal!important;
+font-size: 12px;
+}
+.page-12th .isi-head{
+margin-top: 78px !important;
+}
+.page-12th .left-box-img, .page-12th .left-box-titles{
+	padding-left:0px;
+}
+.page-four .page-headings {
+    font-family: FuturaStd-Bold_w1;
+    font-size: 18px;
+    padding-bottom: 0px;
+    padding-top: 22px;
+	padding-left: 36px;
+}
+.page-five .subttles {
+    color: #005CB8;
+    font-family: FuturaStd-Bold_w1;
+    background-color: #F4F4F4;
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+    }
+.page-six .subttles {
+    color: #005CB8;
+    font-size: 14px;
+    font-family: FuturaStd-Bold_w1;     
+    padding: 10px;
+    background-color: #F4F4F4;
+   /* margin-top: -4px; */
+    padding-left: 36px;
+    border-radius: 0px 0px 28px 0px;
+	margin-bottom: 25px;
+}
+.page6top {
+    margin-top: 30px;
+}
+.page-six .cont-titl  {
+    margin-bottom: 10px;
+}
+.page-12th .page-inners-titles {
+    padding-left: 0px;
+	font-family: FuturaStd-Medium_wg;
+}
+.page-five ul{
+    padding: 0px;
+	margin-left: 15px;
+    margin-bottom: 5px;
+} 
+.page-six ul{
+    padding: 0px;
+    margin-left: 18px;
+    margin-bottom: 0px;
+} 
+.page-six ul li {
+    padding-bottom: 3px;
+}
+.tenthpage li {
+    list-style-type: none;
+    
+}
+.page-10th ul {
+     padding: 0px;
+    margin-bottom: 0px;
+	    margin-left: 15px;
+}
+
+.page-10th ul li span{
+    margin-left: -7px;
+}
+.textnew {
+    font-family: FuturaStd-Medium_wg;
+	font-size: 11px !important;
+    color: #5B5B5D;
+    margin-bottom: 2px !important;
+    line-height: 10px !important;
+    margin-left: -6px;
+    margin-right: 20px;
+}
+.textpag {
+    
+/*font-family: FuturaStd-Book_w0;*/
+font-family: FuturaStd-Medium_wg;
+    font-size: 11px;
+    color: #5B5B5D;
+    margin-bottom: 10px !important;
+    line-height: 16px;
+    margin-top: 13px;
+}
+ .title-covers{
+    margin-right: 0px !important;
+}
+.page-14  .title-covers{
+margin-right: -10px !important;
+
+}
+.page-12th .last-foots {
+font-family: FuturaStd-Heavy_wf !important;
+font-style: italic !important;
+font-size:14px;
+}
+.page-14 .isi-head strong{
+    font-size: 18px;
+}
+.page-12th .isi-head strong{
+    font-size: 18px;
+}
+.flipbook-bg-light{
+background-color: #5A2B81 !important;
+color:#fff !important;
+}
+.pages-sevens .mtop{
+padding-left: 0;
+margin-left: -1px;
+}
+.pages-sevens .cont-titles{
+margin-left: -1px;
+}
+.page-six .col-arrange{
+padding-left: 0px !important;
+margin-left: -1px;
+}
+.page-six .col-arrange ul{
+margin-left:10px;
+}
+.page-eighth ul {
+    margin-left: 18px;
+}
+.page-six .col-arrange .cont-titles{
+margin-left: 0px;
+font-size:14px;
+}
+.page-sevens .page6top{
+    padding-left: 0px;
+    margin-left: -14px;
+}
+.page-sevens .mtop{
+padding-left: 0px;
+margin-left: 0px;
+}
+
+.page-sevens .cont-titles{
+margin-left: 0px;
+font-size:14px;
+}
+.page-eighth  .head{
+margin-left:0px !important;
+}
+.page-eighth img{
+margin-left: -7px !important;
+}
+.page-eighth .col-arrange{
+margin-left:0px !important;
+}
+
+.page-9th-01img{
+margin-left: -2px !important;
+padding-left: 0px;
+margin-top: -21px !important;
+}
+.page-9th p {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.page-11th .left-text-s{
+padding-left: 5px;
+}
+.page-14 .inner-page-covers{
+padding: 0px 29px 29px 24px;
+}
+ .page-three .subtitles,.page-eighth  .subttles, .page-four .subttles {
+	padding-right: 43px;
+ }
+ .subttles, .subtitles , .page-11th .subtitle, .page-14 .subtitle {
+ font-size:14px;
+ }
+ .content .flippageone{
+	margin-top: 40px;
+ }
+ .flippageone .text-contents-table{
+ padding-left: 52px;
+ }
+  .flippageone .text-contents-table .col-sm-10 {
+  padding-left:0px;
+   }
+   .page-sevens .page-headings{
+   height: 74px;
+   }
+   
+   .page-two .cont-titles{
+   margin-left:0px;
+   }
+   
+   /*Client changes-03-04-17*/
+   /*letter size*/
+   .text-contents-table{
+   margin-top: 45px;
+   }
+   .page-two .cont-titles{
+    font-size:14px !important;
+	font-weight: 100;
+   }
+   .page-headings , .page-heading{
+   
+   font-weight: 100 !important;
+   border-radius: 0px 0px 28px 0px;
+   }
+
+   .practice-title-4th{
+   margin-top: 35px;
+   }
+   .page-five .img-fig{
+      margin-top: 0px !important;
+
+   }
+  .page-five .page-inners-titles{
+   margin-left: -22px;
+	margin-top: 14px;
+   }
+  .page-sevens .textbot {
+   font-size: 11px !important; 
+   }
+   .page-eighth .cont-titl {
+    margin-bottom: 5px !important;
+    margin-top: 30px !important;
+}
+.page-9th li, .page-9th p{
+   font-size: 11px !important; 
+   
+}
+.page-10th ul li, .page-10th p  {
+color: rgb(95, 99, 105);
+}
+.page-10th .tenthpage{
+font-size: 11px !important;
+line-height: 16px !important;
+}
+.page-10th .page-inners-text{
+font-weight:bold;
+}
+
+/*page-10th .page-inners-titles -1005*/
+.img-11-th-4th {
+    height: 217px !important;
+    width: 100%;
+}
+.page-12th .page-inners-titles{
+	font-weight: bolder;
+	color: #58575C;
+	font-size: 15px !important;
+}
+.page-12th .isi-head {
+    margin-bottom: 10px !important;
+}
+.page-12th .last-foots{
+font-weight: 100;
+}
+.p1 .gradient{
+z-index:-999;
+}
+
+.page-14 .last-foots {
+    font-family: FuturaStd-Heavy_wf !important;
+    font-style: italic !important;
+    font-size: 14px !important;
+	color: #532D84 !important;
+	margin-top: 10px;
+}
+ .p16 .gradient{
+ z-index:-999;
+ }
+ .arranged-subtitle {
+    padding-top: 10px !important;
+    min-height: 70px !important;
+    padding-bottom: 10px !important;
+	font-size:14px !important;
+}
+.page-eighth .page-heading{
+	padding-top:15px !important;
+}
+.page-10th .page-heading{
+	padding-top:15px !important;
+}
+.page-three .page-headings{
+	padding-top:35px !important;
+	min-height:75px;
+}.page-four .page-headings{
+	padding-top:35px !important;
+	min-height:75px;
+}
+.page-eighth .head{
+color:#58575C !important;
+font-family: FuturaStd-Medium_wg;
+font-weight:bold !important;
+font-size: 15px !important;
+}
+/*
+.page-inners-titles {
+    font-weight: bold;
+    color: #58575C;
+    font-size: 14px !important;
+    padding-left: 21px;
+    padding-bottom: 8px;
+    font-family: FuturaStd-Heavy_wf;
+}*/
+ .page-9th .head {
+    color: #58575C !important;
+    font-family: FuturaStd-Medium_wg;
+    font-weight: bold !important;
+    font-size: 15px !important;
+}
+ 
+ .fancybox-image{
+ background-color:#fff;
+ }
+ 
+ .flipbook-HeaderWrapper{
+ position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+	height:45px;
+	background:#5d2988;
+  }
+.header-logo
+  {
+	width: 108px;
+    height: 42px;
+    margin: 2px 2px 2px 20px;
+    display: inline-block;
+	}
+.home-link {
+    right: 0;
+    position: absolute;
+    margin: 10px 20px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 25px;
+    font-weight: 700;
+}
+.home-link:hover { 
+    color: #ffeb3b;  
+}
+a:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+	color: #fff;
+	
+}
+@font-face{font-family:'proxima_novasemibold';src:url('../fonts/proximanova-semibold-webfont.eot');src:url('../fonts/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+url('../fonts/proximanova-semibold-webfont.woff') format('woff'),
+url('../fonts/proximanova-semibold-webfont.ttf') format('truetype');font-weight:normal;font-style:normal;}
+.top-home{
+position: fixed;
+left: 0;
+color: #1c1c1c;
+padding-left: 14px;
+text-decoration: none;
+font-weight: bold;
+font: 15px proxima_novasemibold;
+}
+.top-home:hover{
+text-decoration: none;
+}
