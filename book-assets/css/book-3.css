@@ -1,0 +1,185 @@
+
+
+@font-face {
+	font-family: FuturaStd-Bold_ef;
+	src: url("fonts/FuturaStd-Bold_ef.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Heavy_ep;
+	src: url("fonts/FuturaStd-Heavy_ep.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedBold_dk;
+	src: url("fonts/FuturaStd-CondensedBold_dk.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedBoldObl_df;
+	src: url("fonts/FuturaStd-CondensedBoldObl_df.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Book_e2;
+	src: url("fonts/FuturaStd-Book_e2.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Condensed_fa;
+	src: url("fonts/FuturaStd-Condensed_fa.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedBold_d4;
+	src: url("fonts/FuturaStd-CondensedBold_d4.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedLight_gb;
+	src: url("fonts/FuturaStd-CondensedLight_gb.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedLight_ec;
+	src: url("fonts/FuturaStd-CondensedLight_ec.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedLight_eb;
+	src: url("fonts/FuturaStd-CondensedLight_eb.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_du;
+	src: url("fonts/FuturaStd-Bold_du.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedLightObl_d3;
+	src: url("fonts/FuturaStd-CondensedLightObl_d3.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Book_ge;
+	src: url("fonts/FuturaStd-Book_ge.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_1f;
+	src: url("fonts/FuturaStd-Bold_1f.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_d7;
+	src: url("fonts/FuturaStd-Bold_d7.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_d8;
+	src: url("fonts/FuturaStd-Bold_d8.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Heavy_g6;
+	src: url("fonts/FuturaStd-Heavy_g6.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_gd;
+	src: url("fonts/FuturaStd-Bold_gd.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-BoldOblique_e8;
+	src: url("fonts/FuturaStd-BoldOblique_e8.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-CondensedLight_dh;
+	src: url("fonts/FuturaStd-CondensedLight_dh.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Book_d2;
+	src: url("fonts/FuturaStd-Book_d2.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_dg;
+	src: url("fonts/FuturaStd-Bold_dg.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Book_db;
+	src: url("fonts/FuturaStd-Book_db.woff") format("woff");
+}
+
+
+
+
+@font-face {
+	font-family: Gotham-Bold;
+	src: url("../fonts/Gotham-Book.otf") format("opentype");
+}
+@font-face {
+	font-family: Gotham-Book;
+	src: url("../fonts/Gotham-Book.otf") format("opentype");
+}
+
+
+@font-face {
+	font-family:DIN-LIGHT;
+	src: url("../fonts/DIN-LIGHT.ttf") format("truetype");
+}
+
+@font-face {
+	font-family:DIN-BOLD;
+	src: url("../fonts/DIN-BOLD.ttf") format("truetype");
+}
+
+
+@font-face {
+	font-family:DINLightItalic;
+	src: url("../fonts/DINLightItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: FuturaStd-Bold_j3;
+	src: url("../fonts/FuturaStd-Bold_j3.woff") format("woff");
+}
+
+@font-face {
+	font-family: FuturaStd-Heavy_j9;
+	src: url("../fonts/FuturaStd-Heavy_j9.woff") format("woff");
+}
+#fb5 #fb5-container-book .page{
+background:#fff;
+}
+.page-cover-az{
+height:100%;
+
+}
+.header-layer-az h2{
+font-family: FuturaStd-Bold_j3;
+color: #5d305e;
+}
+.sub-head-az{
+font-family: FuturaStd-Heavy_j9;
+color: #735073;
+line-height: 29px;
+}
+
+#fb5-footer ul{
+margin-bottom: 0px !important;
+}
+#fb5-footer ul li{
+font-size:14px;
+}
+.fb5-nav-arrow{
+
+}
+
+.fb5-nav-arrow:hover{
+
+}
