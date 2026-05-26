@@ -1,0 +1,416 @@
+/*Fonts*/
+@font-face {
+	font-family: Nexa-Light_19u;
+	src: url("../fonts/Nexa-Light_19u.woff") format("woff");
+}
+@font-face {
+	font-family: Frutiger-LightCn_47;
+	src: url("../fonts/Frutiger-LightCn_47.woff") format("woff");
+}
+
+@font-face {
+	font-family: Frutiger-LightItalic_1a4;
+	src: url("../fonts/Frutiger-LightItalic_1a4.woff") format("woff");
+}
+
+@font-face {
+	font-family: Nexa-XBold_19t;
+	src: url("../fonts/Nexa-XBold_19t.woff") format("woff");
+}
+
+@font-face {
+	font-family: Frutiger-BoldItalic_4r;
+	src: url("../fonts/Frutiger-BoldItalic_4r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Frutiger-Light_1a3;
+	src: url("../fonts/Frutiger-Light_1a3.woff") format("woff");
+}
+
+@font-face {
+	font-family: NexaLight_4t;
+	src: url("../fonts/NexaLight_4t.woff") format("woff");
+}
+
+@font-face {
+	font-family: Frutiger-Bold_1a2;
+	src: url("../fonts/Frutiger-Bold_1a2.woff") format("woff");
+}
+
+@font-face {
+	font-family: Nexa-Bold_4b;
+	src: url("../fonts/Nexa-Bold_4b.woff") format("woff");
+}
+
+@font-face {
+	font-family: Frutiger-Roman_4a;
+	src: url("../fonts/Frutiger-Roman_4a.woff") format("woff");
+}
+html, body {
+    font-family: sans-serif;
+    /* background: #DEA7E7; */
+    background: url(../img/tagrisso_bg.jpg) !important;
+    background-size: cover !important;
+}
+
+p,li{
+   font-size: 11px;
+   font-family: Helvetica !important; 
+}
+img{
+	width:100%;
+}
+.tagrisso-logo img{
+    width: 65%;
+}
+.page-cover-az{
+height:100%;
+}
+.flipbook_box{
+padding:0 !important;
+} 
+.header-custom-nv{
+background-color:#005953; 
+padding-bottom: 10px;
+}
+.header-custom-nv h3{
+background-color:#F1592A;
+color:#fff;
+width: 63%;
+border-radius: 0px 18px 18px 0px;
+padding-left: 45px;
+padding-top: 8px;
+padding-bottom: 8px;
+position: relative;
+top: -12px;
+font-size: 21px;
+font-family: Nexa-XBold_19t;
+min-height: 43px;
+}
+.header-custom-nv h2{ 
+color:#fff;
+text-transform:uppercase;
+padding-left: 45px;
+margin-top: 0px;
+font-family: Nexa-XBold_19t;
+font-size:27px;
+}
+.nv-ul{
+list-style:none;
+padding-top: 15px !important;
+padding-left: 0;
+}
+.content-layer{
+padding-left: 45px;
+}
+.nv-ul li{
+margin-bottom: 10px !important; 
+background-image: url(../img/dot-index.png);
+background-repeat: no-repeat;
+list-style: none;
+padding-left: 18px;
+background-size: 7px 7px;
+background-position: 0 6px;
+font-family: Helvetica, Sans-Serif;
+color: #005953; 
+}
+.coverpage{
+
+}
+.last-coverpage{
+		
+}
+.flipbook_box{
+	background:#fff;
+}
+.header-left{
+    height: 159px;
+    padding-left: 167px;
+    padding-top: 65px;
+    width: 86%;	
+}
+.even.fb5-double {
+    background: url(../img/even-page-header.svg) !important;
+	background-repeat: no-repeat !important;
+	height: 100%;
+}
+.odd.fb5-double {
+    background: url(../img/odd-page-header.svg) !important;
+	background-repeat: no-repeat !important;
+	height: 100%;
+}
+.flipbook_box{
+	padding:0 60px !important;
+	height: 100%;
+}
+.pfs-page1{
+	padding:15px 0;
+}
+.hazard-ratio{
+		padding:15px 0;
+}
+.hazart-subcontent
+{
+	   padding:15px 0;
+	   width: 42%;
+}
+.page5-heading
+{
+	    width: 62%;
+    padding-top: 106px;
+}
+.os-page1{
+	    padding: 25px 0;
+}
+.deathsbytreat-page1{
+    width: 65%;
+}
+.page1-btm-content
+{
+    width: 50%;
+    padding: 33px 0 0 0;
+    float: left;
+}
+.tagrisso-logo
+{
+    position: absolute;
+    right: 0;
+    margin-top: -40px;
+}
+.header-right
+{
+	    height: 159px;
+		width: 86%;
+	 padding-top: 67px;
+		    padding-left: 68px
+}
+.page3-heading
+{
+	    height: 159px;
+    width: 78%;
+    padding-top: 67px;
+    padding-left: 68px;
+}
+.page3-tbl{
+    padding: 15px 0;
+    width: 96%;
+	margin-left: -12px;
+}
+.allsubgroup-page3{
+		padding:30px 50px 0 0;
+}
+.page3-btm-content
+{
+padding-top: 0px;
+    width: 90%;
+	    margin-left: -12px;
+}
+.page4-overall-heading{
+    padding: 0px 0 10px;
+    width: 78%;
+}
+.fourth-page-cover .flipbook_box{
+	    padding: 0 0 0 100px !important;
+}
+.overall-response1
+{
+width: 80%;
+    padding-left: 100px;
+}
+.page4-dor{
+	    width: 74%;
+    padding: 0;
+}
+.page4-median{
+    width: 80%;
+    padding: 15px 0;
+}
+.page4-safety-cont
+{
+	margin-left: -10px;
+    width: 90%;
+    padding-top: 10px;
+}
+.page5-heading{
+	    width: 68%;
+ padding-top: 90px;
+}
+.cns-reponse-page5
+{
+	    width: 89%;
+    padding:10px 0 15px 0;
+}
+.page5-cns-graph{
+    width: 78%;
+}
+.cns-dor-page5{
+	width:60%;
+	padding:5px 0 10px 0;
+}
+.page5-tbl{
+	    width: 93%;
+		padding-bottom:15px;
+}
+.page5-content{
+    padding-top: 90px;
+    width: 62%;
+    float: left;
+}
+.fifth-page-cover .tagrisso-logo{
+    margin-top: 80px;
+}
+.page6-heading{
+ height: 159px;
+    width: 78%;
+padding-top: 60px;
+}
+.page6-ars{
+	padding:10px 0 0 20px;
+	    width: 95%;
+}
+.page6th_btm_content{
+	width:68%;
+	padding:6px 0 0 20px;
+}
+.page6-please-cont{
+	width:88%;
+	padding-left: 20px;
+}
+.page7-heading{
+	   padding-top: 60px;
+    width: 75%;
+}
+.page7-80tablet{
+	    padding: 10px 0;
+}
+.page7-patients-cont{
+	    padding-bottom: 10px;
+    width: 87%;
+}
+.page7-content
+{
+    width: 68%;
+    float: left;
+    padding-top: 43px;
+}
+.seventh-page-cover .tagrisso-logo
+{
+    margin-top: 36px;
+    padding-right: 20px;
+}
+.page8-heading{
+	 height: 159px;
+    width: 78%;
+    padding-top: 60px;
+}
+.eigth-page-cover .flipbook_box {
+padding: 0 40px 0 80px !important;
+    height: 100%;
+    width: 97%;
+}
+
+.page8-tbl{
+	padding:10px 0  0px 0;
+	width: 94%;
+}
+.page8th-btm-content{
+	width:65%;
+}
+.page8th-btm-flaura{
+	width:90%;
+	padding:10px 0;
+}
+.page8-please
+{
+	width: 90%;
+    padding: 18px 0 0 0;
+}
+.page9-heading{
+    padding-top: 60px;
+    width: 69%;
+}
+.page9-crossover{
+	padding:20px 0 10px 0;
+}
+.page9-primary{
+	width:88%;
+}
+.page9-flaura{
+	padding:30px 0;
+	width:98%;
+}
+.page10-heading{
+	width:85%;
+	padding-left: 65px;
+}
+.page10-3rdgen{
+	width: 92%;
+    padding: 20px 0;
+}
+.page10-3rdgen{
+width: 92%;
+padding: 10px 0;
+}
+.page10-3tar{
+    width: 102%;
+    margin-left: -35px;
+    padding: 10px 0 0;
+}
+.page10-nccn
+{
+    width: 67%;
+    padding: 50px 0 0 10px;
+    float: left;
+	  
+}
+.tenth-page-cover .tagrisso-logo
+{
+    margin-top: 126px;
+}
+.even .fb5-cont-page-book{
+	background:none !important;
+	background-image:none !important;
+}
+.page-right-border
+{
+
+	/*    border-image-source: url(../img/border-right.svg) !important;
+			background-repeat: no-repeat !important; */
+	border-right: 2px dashed #4D4D4F !important;
+}
+.pfs_os_lbl{
+width: 54px;
+    position: absolute;
+    right: 0;	
+}
+.orr-dor{
+	width: 55px;
+    position: absolute;
+    left: 0;
+}
+.cnd-dor{
+		width: 65px;
+    position: absolute;
+    right: 0;
+}
+.safety {
+width: 64px;
+    position: absolute;
+    left: 0;
+    margin-left: -7px;
+}
+.safety-dosing{
+	width: 65px;
+    position: absolute;
+    right: 0;
+	bottom:0;
+	margin-right: -4px;
+}
+.fifth-page-cover .tagrisso-logo {
+    position: absolute;
+    right: 10px;
+}
+.fancybox-skin {
+	    background: #fff !important; 
+}
